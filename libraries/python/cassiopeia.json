@@ -2,6 +2,11 @@
         "owner": "meraki-analytics",
         "repo": "cassiopeia",
         "language": "Python",
-        "links": [],
+        "links": [
+            {
+                "name": "Documentation",
+                "url": "http://cassiopeia.readthedocs.org/en/latest/"
+            }
+        ],
         "metadata": {}
     }
