@@ -1,0 +1,12 @@
+{
+        "owner": "aj-r",
+        "repo": "RiotNet",
+        "language": "C#",
+        "links": [
+            {
+                "name": "NuGet",
+                "url": "https://www.nuget.org/packages/RiotNet/"
+            }
+        ],
+        "metadata": {}
+    }

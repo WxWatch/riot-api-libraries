@@ -1,0 +1,12 @@
+{
+        "owner": "BenFradet",
+        "repo": "RiotSharp",
+        "language": "C#",
+        "links": [
+            {
+                "name": "NuGet",
+                "url": "https://www.nuget.org/packages/RiotSharp"
+            }
+        ],
+        "metadata": {}
+    }

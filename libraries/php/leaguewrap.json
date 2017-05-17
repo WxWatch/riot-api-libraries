@@ -1,0 +1,10 @@
+{
+        "owner": "LeaguePHP",
+        "repo": "LeagueWrap",
+        "language": "PHP",
+        "links": [{
+            "name": "Packagist",
+            "url": "https://packagist.org/packages/league-php/leaguewrap"
+        }],
+        "metadata": {}
+    }

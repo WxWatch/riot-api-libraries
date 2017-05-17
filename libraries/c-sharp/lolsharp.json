@@ -1,0 +1,12 @@
+{
+        "owner": "p-ob",
+        "repo": "LolSharp",
+        "language": "C#",
+        "links": [
+            {
+                "name": "NuGet",
+                "url": "https://www.nuget.org/packages/LolSharp/"
+            }
+        ],
+        "metadata": {}
+    }

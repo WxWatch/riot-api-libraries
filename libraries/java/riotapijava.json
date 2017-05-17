@@ -1,0 +1,16 @@
+{
+        "owner": "taycaldwell",
+        "repo": "riot-api-java",
+        "language": "Java",
+        "links": [
+            {
+                "name": "JitPack",
+                "url": "https://jitpack.io/#rithms/riot-api-java/"
+            },
+            {
+                "name": "Website",
+                "url": "http://taycaldwell.com/riot-api-java/"
+            }
+        ],
+        "metadata": {}
+    }
