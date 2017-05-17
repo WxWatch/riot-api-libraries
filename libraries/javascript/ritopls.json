@@ -1,0 +1,10 @@
+{
+        "owner": "brucewsinc",
+        "repo": "rito-pls",
+        "language": "Javascript",
+        "links": [{
+            "name": "npm",
+            "url": "https://www.npmjs.com/package/rito-pls"
+        }],
+        "metadata": {}
+    }

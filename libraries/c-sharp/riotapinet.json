@@ -1,0 +1,12 @@
+{
+    "owner": "sdesyllas",
+    "repo": "RiotApi.NET",
+    "language": "C#",
+    "links": [
+        {
+            "name": "NuGet",
+            "url": "https://www.nuget.org/packages/RiotApi.NET/"
+        }
+    ],
+    "metadata": {}
+}

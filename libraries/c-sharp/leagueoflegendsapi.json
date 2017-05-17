@@ -1,0 +1,12 @@
+{
+        "owner": "XeeX",
+        "repo": "LeagueOfLegendsAPI",
+        "language": "C#",
+        "links": [
+            {
+                "name": "NuGet",
+                "url": "https://www.nuget.org/packages/Remake.PortableLeagueAPI/"
+            }
+        ],
+        "metadata": {}
+    }

@@ -1,0 +1,10 @@
+{
+        "owner": "jwalton",
+        "repo": "lol-js",
+        "language": "Javascript",
+        "links": [{
+            "name": "npm",
+            "url": "https://www.npmjs.com/package/lol-js"
+        }],
+        "metadata": {}
+    }

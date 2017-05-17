@@ -1,0 +1,12 @@
+{
+        "owner": "golf1052",
+        "repo": "CreepScore",
+        "language": "C#",
+        "links": [
+            {
+                "name": "NuGet",
+                "url": "https://www.nuget.org/packages/Creep.Score/"
+            }
+        ],
+        "metadata": {}
+    }
