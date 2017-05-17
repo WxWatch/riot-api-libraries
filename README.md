@@ -3,9 +3,10 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [How It Works](#how-it-works)
-2. [I want to include my library!](#i-want-to-include-my-library)
+2. [I Want to Include My Library!](#i-want-to-include-my-library)
 3. [My Library's Information is Wrong/Outdated](#my-librarys-information-is-wrongoutdated)
 4. [Troubleshooting](#troubleshooting)
+5. [Future Work](#future-improvementssuggestions)
 
 ## Introduction
 This repository is the home of the configuration files that power the [Public Libraries for the Riot Games API](https://discussion.developer.riotgames.com/articles/61/public-libraries-for-the-riot-games-api.html) article on the [Riot Games API Discussion Boards](https://discussion.developer.riotgames.com/index.html). 
@@ -54,12 +55,14 @@ lolfakejavalib.json
 }
 ```
 
-## I want to include my library!
-Awesome! Simply create a Pull Request that adds 
+## I Want to Include My Library!
+Awesome! Simply create a Pull Request that adds a file with your library's configuration to the appropriate folder (if your language's folder isn't there, feel free to create it!). Once we verify that everything is correct, we'll merge it in and you're all set!
 
 ## My Library's Information is Wrong/Outdated
+It's simple to fix! Simply create a Pull Request that updates the configuration file for your library. Once we verify that everything is correct, we'll merge it in and you're all set!
 
 ## Troubleshooting
+For any specific issues / feature requests, you can create a Github Issue or reach out to WxWatch on the [Riot API Community Discord](https://discord.gg/uYW7qhP)
 
 ## Future Improvements/Suggestions
 I'd like to remove the `language` property and have the updater rely on the directory name to know the language.
