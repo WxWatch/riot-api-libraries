@@ -1,7 +1,28 @@
 {
-        "owner": "chauTNguyen",
-        "repo": "kindred-api",
-        "language": "Javascript",
-        "links": [],
-        "metadata": {}
+    "owner": "ChauTNguyen",
+    "repo": "kindred-api",
+    "language": "Javascript",
+    "links": [
+        {
+            "name": "npm",
+            "url": "https://www.npmjs.com/package/kindred-api"
+        },
+        {
+            "name": "wiki",
+            "url": "https://github.com/ChauTNguyen/kindred-api/wiki"
+        }
+    ],
+    "metadata": {
+        "v3": "true",
+        "rate-limiter": {
+            "per-region": true,
+            "burst": true,
+            "spread": true
+        },
+        "cacher": {
+            "js": true,
+            "redis": true,
+            "db": false
+        }
     }
+}
