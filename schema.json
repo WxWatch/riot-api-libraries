@@ -1,0 +1,35 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "id": "Repo",
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {
+
+        "owner": {
+            "type": "string",
+            "additionalProperties": false
+        },
+
+        "repo": {
+            "type": "string",
+            "additionalProperties": false
+        },
+
+        "language": {
+            "type": "string",
+            "additionalProperties": false
+        },
+
+        "links": {
+            "type": "array",
+            "additionalProperties": false,
+            "items": {
+                "type": "object"
+            }
+        },
+
+        "metadata": {
+            "type": "object"
+        }
+    }
+}
