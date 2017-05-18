@@ -45,7 +45,7 @@ lolfakejavalib.json
     "language": "Java",
     "links": [
         {
-            "name": "Documentation"
+            "name": "Documentation",
             "url": "https://github.com/WxWatch"
         }
     ],
