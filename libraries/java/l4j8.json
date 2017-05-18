@@ -13,5 +13,6 @@
 		"async": "kinda, use CompletableFuture",
 		"v3": true,
 		"rate-limiter": true
-	}
+	},
+    "tacos": null
 }
