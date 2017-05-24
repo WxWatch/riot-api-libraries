@@ -24,7 +24,12 @@
             "type": "array",
             "additionalProperties": false,
             "items": {
-                "type": "object"
+                "type": "object",
+                "properties": {
+                    "name": { "type": "string" },
+                    "url": { "type": "string" }
+                },
+                "additionalProperties": false
             }
         },
 
