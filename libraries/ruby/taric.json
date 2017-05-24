@@ -3,5 +3,7 @@
         "repo": "taric",
         "language": "Ruby",
         "links": [],
-        "metadata": {}
+        "metadata": {
+            "test": "test"
+        }
     }
