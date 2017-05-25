@@ -15,6 +15,11 @@
             "additionalProperties": false
         },
 
+        "description": {
+            "type": "string",
+            "additionalProperties": false
+        },
+
         "language": {
             "type": "string",
             "additionalProperties": false
