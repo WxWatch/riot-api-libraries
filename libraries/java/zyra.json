@@ -17,6 +17,8 @@
         }
     ],
     "metadata": {
-        "v3-supported": true
+        "v3-supported": true,
+        "async": true,
+        "rate-limiter": true
     }
 }
