@@ -28,9 +28,10 @@ Each JSON file should consist of a single `RepoObject` JSON object with the foll
 #### RepoObject
 - `owner` [**string**] - The GitHub account that owns the repository
 - `repo` [**string**] - The name of the repository
+- `description` [**string**] _(Optional)_ -  A description of the library. If omitted, the repository description will be used instead.
 - `language` [**string**] - The programming language of the library
 - `links` [**array**] - An array of `RepoLink` objects
-- `metadata` [**object**] - An object containing metadata on the library (*currently unused*)
+- `metadata` [**object**] - An object containing metadata on the library _(currently unused)_
 
 #### RepoLink
 - `name` [**string**] - The display name of the link
@@ -42,6 +43,7 @@ lolfakejavalib.json
 {
     "owner": "WxWatch",
     "repo": "LoL-Fake-Java-Lib",
+    "description": "This is a fake Java library for the Riot Games API",
     "language": "Java",
     "links": [
         {
