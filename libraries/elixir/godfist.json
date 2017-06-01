@@ -1,0 +1,15 @@
+{
+    "owner": "aguxez",
+    "repo": "godfist",
+    "description": "Library for League of Legends API in Elixir.",
+    "language": "Elixir",
+    "links": [
+        {
+          "name": "Documentation",
+          "url": "https://hexdocs.pm/godfist/Godfist.html"
+        }
+    ],
+    "metadata": {
+        "v3-supported": true
+    }
+}
