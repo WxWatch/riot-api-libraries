@@ -1,0 +1,11 @@
+{
+        "owner": "protectator",
+        "repo": "league-typedef",
+        "description": "Typescript type definitions for the League of Legends API.",
+        "language": "Typescript",
+        "links": [{
+            "name": "npm",
+            "url": "https://www.npmjs.com/package/league-typedef"
+        }],
+        "metadata": {}
+    }
