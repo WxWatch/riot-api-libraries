@@ -1,11 +1,14 @@
 {
-        "owner": "protectator",
-        "repo": "league-typedef",
-        "description": "Typescript type definitions for the League of Legends API.",
-        "language": "Typescript",
-        "links": [{
-            "name": "npm",
-            "url": "https://www.npmjs.com/package/league-typedef"
-        }],
-        "metadata": {}
-    }
+    "owner": "protectator",
+    "repo": "league-typedef",
+    "description": "Typescript type definitions for the League of Legends API.",
+    "language": "Typescript",
+    "links": [{
+        "name": "GitHub",
+        "url": "https://github.com/Protectator/league-typedef"
+    }, {
+        "name": "npm",
+        "url": "https://www.npmjs.com/package/league-typedef"
+    }],
+    "metadata": {}
+}
