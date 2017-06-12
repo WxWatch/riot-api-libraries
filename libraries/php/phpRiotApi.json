@@ -2,11 +2,18 @@
   "owner": "fcarrascosa",
   "repo": "phpRiotApi",
   "language": "php",
-  "links": {
-    "gitHub": "https://github.com/fcarrascosa/phpRiotApi",
-    "packagist": "https://packagist.org/packages/fcarrascosa/riot-api-client"
-  },
+  "links": [
+    {
+      "name": "The project on gitHub",
+      "url": "https://github.com/fcarrascosa/phpRiotApi",
+    },
+    {
+      "name": "The project on packagist",
+      "packagist": "https://packagist.org/packages/fcarrascosa/riot-api-client"
+    }
+  ],
   "metadata": {
+    "v3-supported": true,
     "author": {
       "name": "Fernando Carrascosa",
       "website": "https://fcarrascosa.es",
