@@ -9,7 +9,7 @@
     },
     {
       "name": "The project on packagist",
-      "packagist": "https://packagist.org/packages/fcarrascosa/riot-api-client"
+      "url": "https://packagist.org/packages/fcarrascosa/riot-api-client"
     }
   ],
   "metadata": {
