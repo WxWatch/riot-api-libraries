@@ -1,0 +1,26 @@
+{
+  "owner": "fcarrascosa",
+  "repo": "phpRiotApi",
+  "language": "php",
+  "links": [
+    {
+      "name": "The project on gitHub",
+      "url": "https://github.com/fcarrascosa/phpRiotApi"
+    },
+    {
+      "name": "The project on packagist",
+      "url": "https://packagist.org/packages/fcarrascosa/riot-api-client"
+    }
+  ],
+  "metadata": {
+    "v3-supported": true,
+    "author": {
+      "name": "Fernando Carrascosa",
+      "website": "https://fcarrascosa.es",
+      "location": "Madrid/Spain",
+      "twitter": "jarredethe",
+      "gitHub": "fcarrascosa"
+    },
+    "version": "1.0.0"
+  }
+}
