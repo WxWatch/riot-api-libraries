@@ -1,0 +1,20 @@
+{
+    "owner": "NitashEU",
+    "repo": "zed.gg",
+    "language": "Typescript",
+    "links": [
+        {
+            "name": "npm",
+            "url": "https://www.npmjs.com/package/zed.gg"
+        }
+    ],
+    "metadata": {
+        "v3": "true",
+        "rate-limiter": {
+            "per-region": true,
+            "burst": false,
+            "spread": true,
+            "header-validation": true
+        }
+    }
+}
