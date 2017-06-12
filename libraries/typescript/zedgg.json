@@ -14,7 +14,7 @@
             "per-region": true,
             "burst": false,
             "spread": true,
-			"header-validation": true
+            "header-validation": true
         }
     }
 }
