@@ -1,0 +1,11 @@
+{
+    "owner": "MarcusMann",
+    "repo": "glol",
+    "description": "Library for League of Legends API in Golang.",
+    "language": "Golang",
+    "links": [
+    ],
+    "metadata": {
+        "v3-supported": true
+    }
+}
