@@ -1,0 +1,26 @@
+{
+  "owner": "arcanez",
+  "repo": "www-riotgames-leagueoflegends",
+  "description": "Perl wrapper around the Riot Games League of Legends API",
+  "language": "Perl",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/arcanez/www-riotgames-leagueoflegends"
+    },
+    {
+      "name": "CPAN",
+      "url": "https://metacpan.org/pod/WWW::RiotGames::LeagueOfLegends"
+    }
+  ],
+  "metadata": {
+    "v3-supported": true,
+    "author": {
+      "name": "Justin Hunter",
+      "website": "http://warpedreality.org",
+      "twitter": "justindhunter",
+      "gitHub": "arcanez"
+    },
+    "version": "0.0001"
+  }
+}
