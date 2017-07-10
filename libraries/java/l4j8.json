@@ -2,16 +2,11 @@
 	"owner": "stelar7",
 	"repo": "l4j8",
 	"language": "Java",
-	"links": [{
-		"name": "Jitpack",
-		"url": "https://jitpack.io/#stelar7/L4J8"
-	}, {
-		"name": "Usage Guide",
-		"url": "https://github.com/stelar7/L4J8/blob/master/usage.md"
-	}],
+	"links": [],
 	"metadata": {
-		"async": "kinda, use CompletableFuture",
+		"async": true,
 		"v3": true,
-		"rate-limiter": true
+		"rate-limiter": true,
+		"cache": false
 	}
 }
