@@ -1,6 +1,5 @@
 const Validator = require('jsonschema').Validator;
 const schema = require('./schema.json');
-const object = require('./libraries/java/l4j8.json');
 const glob = require('glob');
 
 const v = new Validator();
