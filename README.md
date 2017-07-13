@@ -31,7 +31,7 @@ Each JSON file should consist of a single `RepoObject` JSON object with the foll
 - `description` [**string**] _(Optional)_ -  A description of the library. If omitted, the repository description will be used instead
 - `language` [**string**] - The programming language of the library
 - `links` [**array**] - An array of `RepoLink` objects
-- `metadata` [**object**] - An object containing metadata on the library. This object can contain any data, but the following fields are reserved:
+- `metadata` [**object**] - An object containing metadata on the library.
 - `tags` [**array**] - An array of strings indicating which features are supported by the library. This array can contain any tags, but only the following are currently used:
   - `v3` - Include if the library supports `v3` of the Riot Games API
   - `rate-limiting` - Include if the library natively handles rate limiting headers from the Riot Games API
