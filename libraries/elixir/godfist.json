@@ -11,5 +11,8 @@
     ],
     "metadata": {
         "v3-supported": true
-    }
+    },
+    "tags": [
+        "v3"
+    ]
 }

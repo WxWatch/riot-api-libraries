@@ -32,8 +32,9 @@ Each JSON file should consist of a single `RepoObject` JSON object with the foll
 - `language` [**string**] - The programming language of the library
 - `links` [**array**] - An array of `RepoLink` objects
 - `metadata` [**object**] - An object containing metadata on the library. This object can contain any data, but the following fields are reserved:
-  - `v3-supported` [**boolean**] - Set to `true` if the library supports `v3` of the Riot Games API
-  - `rate-limiting` [**boolean**] - Set to `true` if the library natively handles rate limiting headers from the Riot Games API
+- `tags` [**array**] - An array of strings indicating which features are supported by the library. This array can contain any tags, but only the following are currently used:
+  - `v3` - Include if the library supports `v3` of the Riot Games API
+  - `rate-limiting` - Include if the library natively handles rate limiting headers from the Riot Games API
 
 #### RepoLink
 - `name` [**string**] - The display name of the link
@@ -54,9 +55,12 @@ lolfakejavalib.json
         }
     ],
     "metadata": {
-        "v3-supported": true,
-        "rate-limiting": true
-    }
+        "version": "1.2.0"
+    },
+    "tags": [
+        "v3",
+        "rate-limiting"
+    ]
 }
 ```
 
