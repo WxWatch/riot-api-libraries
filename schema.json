@@ -40,6 +40,14 @@
 
         "metadata": {
             "type": "object"
+        },
+
+        "tags": {
+            "type": "array",
+            "additionalProperties": false,
+            "items": {
+                "type": "string"
+            }
         }
     }
 }
