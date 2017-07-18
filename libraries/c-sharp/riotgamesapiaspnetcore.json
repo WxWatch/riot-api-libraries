@@ -1,7 +1,7 @@
 {
     "owner": "Msx752",
     "repo": "RiotGamesApi.AspNetCore",
-    "description": "LeagueOfLegends v3 .Net Core 1.1 api wrapper",
+    "description": "LeagueOfLegends v3 API wrapper .Net Core 1.1,
     "language": "C#",
     "links": 
     [
@@ -18,6 +18,11 @@
 
     },
     "tags": [
-        "v3"
+		"v3": true,
+		"cacheStaticApi": true,
+        "sync": true,
+        "async": true,
+		"rateLimiter": false,
+        "netCoreService":true
     ]
 }
