@@ -1,0 +1,27 @@
+{  
+   "owner":"Msx752",
+   "repo":"RiotGamesApi.AspNetCore",
+   "description":"LeagueOfLegends v3 API wrapper .Net Core 1.1",
+   "language":"C#",
+   "links":[  
+      {  
+         "name":"NuGet",
+         "url":"https://www.nuget.org/packages/RiotGamesApi.AspNetCore/"
+      },
+      {  
+         "name":"Usage",
+         "url":"https://github.com/msx752/RiotGamesApi.AspNetCore/wiki"
+      },
+      {  
+         "name":"NuGet(Only v3 API ClassLibrary)",
+         "url":"https://www.nuget.org/packages/RiotGamesApi.AspNetCore.RiotApi/"
+      }
+   ],
+   "metadata":{  
+      "v3": true,
+      "async": true
+   },
+   "tags":[  
+       "v3"
+   ]
+}
