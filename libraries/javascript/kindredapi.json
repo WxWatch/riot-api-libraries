@@ -13,16 +13,21 @@
         }
     ],
     "metadata": {
-        "v3": "true",
         "rate-limiter": {
             "per-region": true,
             "burst": true,
-            "spread": true
+            "spread": true,
+            "method-rate-limiting": true
         },
         "cacher": {
             "js": true,
             "redis": true,
             "db": false
-        }
-    }
+        },
+        "unit-tested": true
+    },
+    "tags": [
+        "v3",
+        "rate-limiting"
+    ]
 }
