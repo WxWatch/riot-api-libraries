@@ -1,0 +1,12 @@
+{
+    "owner": "opgginc",
+    "repo": "php-riotapi-request",
+    "description": "RiotQuest, PHP RiotAPI client library that focused on multi request from OP.GG",
+    "language": "PHP",
+    "metadata": {
+        "version": "0.5"
+    },
+    "tags": [
+        "v3"
+    ]
+}
