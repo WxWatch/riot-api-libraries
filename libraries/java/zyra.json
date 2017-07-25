@@ -17,8 +17,12 @@
         }
     ],
     "metadata": {
-        "v3-supported": true,
         "async": true,
-        "rate-limiter": true
-    }
+        "rate-limiter": true,
+        "retries": true
+    },
+    "tags": [
+        "v3",
+        "rate-limiting"
+    ]
 }
