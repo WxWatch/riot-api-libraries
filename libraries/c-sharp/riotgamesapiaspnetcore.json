@@ -12,7 +12,6 @@
           "name":"Wiki",
            "url":"https://github.com/msx752/RiotGamesApi.AspNetCore/wiki"
         },
-       ,
       {  
          "name":"NuGet(Only v3 API ClassLibrary)",
          "url":"https://www.nuget.org/packages/RiotGamesApi.AspNetCore.RiotApi/"
