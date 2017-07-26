@@ -3,5 +3,9 @@
     "repo": "php-riot-api",
     "language": "PHP",
     "links": [],
-    "metadata": {}
+    "metadata": {},
+    "tags": [
+        "v3",
+        "rate-limiting"
+    ]
 }
