@@ -1,38 +1,38 @@
-{  
-     "owner":"Msx752",
-     "repo":"RiotGamesApi.AspNetCore",
-     "description":"LeagueOfLegends v3 and upper API wrapper .Net Core 1.1",
-     "language":"C#",
-     "links":[  
-        {  
-           "name":"NuGet",
-           "url":"https://www.nuget.org/packages/RiotGamesApi.AspNetCore/"
-        },
-        {  
-          "name":"Wiki",
-           "url":"https://github.com/msx752/RiotGamesApi.AspNetCore/wiki"
-        },
-      {  
+{
+   "owner":"Msx752",
+   "repo":"RiotGamesApi.AspNetCore",
+   "description":"LeagueOfLegends v3 and upper API wrapper .Net Core 1.1",
+   "language":"C#",
+   "links":[
+      {
+         "name":"NuGet",
+         "url":"https://www.nuget.org/packages/RiotGamesApi.AspNetCore/"
+      },
+      {
+         "name":"Wiki",
+         "url":"https://github.com/msx752/RiotGamesApi.AspNetCore/wiki"
+      },
+      {
          "name":"NuGet(Only v3 API ClassLibrary)",
          "url":"https://www.nuget.org/packages/RiotGamesApi.AspNetCore.RiotApi/"
-      } 
-     ],
-     "metadata":{  
-       "v3": true,
-       "async": true,
-       "caching": {
-            "static-api": true,
-            "non-static-api": true,
-        },
-       "rate-limiter": {
-              "header-driven": true,
-              "method-rate-limiting": true,
-              "per-region": true,
-              "per-endpoint": true,
-       },
-     },
-     "tags":[
-        "v3",
-        "rate-limiting"
-     ]
-  }
+      }
+   ],
+   "metadata":{
+      "v3":true,
+      "async":true,
+      "caching":{
+         "static-api":true,
+         "non-static-api":true
+      },
+      "rate-limiter":{
+         "header-driven":true,
+         "method-rate-limiting":true,
+         "per-region":true,
+         "per-endpoint":true
+      }
+   },
+   "tags":[
+      "v3",
+      "rate-limiting"
+   ]
+}
