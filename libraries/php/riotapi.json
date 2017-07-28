@@ -9,11 +9,15 @@
 			"url": "https://packagist.org/packages/dolejska-daniel/riot-api"
 		},
 		{
-			"name": "README",
-			"url": "https://github.com/dolejska-daniel/riot-api/blob/master/README.md"
+			"name": "GitHub Wiki",
+			"url": "https://github.com/dolejska-daniel/riot-api/wiki"
 		}
 	],
 	"metadata": {
-		"v3-supported": true
-	}
+		"version": "v0.8"
+	},
+	"tags": [
+		"v3",
+		"rate-limiting"
+	]
 }
