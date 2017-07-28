@@ -2,6 +2,7 @@
   "owner": "BenFradet",
   "repo": "RiotSharp",
   "language": "C#",
+  "description": "Lightweight C# wrapper, based on .NET Standard Library 1.3",
   "links": [
     {
       "name": "NuGet",
@@ -26,8 +27,8 @@
       "per-endpoint": true
     }
   },
-   "tags":[
-      "v3",
-      "rate-limiting"
-   ]
+  "tags": [
+    "v3",
+    "rate-limiting"
+  ]
 }
