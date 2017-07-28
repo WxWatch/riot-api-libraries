@@ -1,12 +1,14 @@
-{
-	"owner": "stelar7",
-	"repo": "l4j8",
-	"language": "Java",
-	"links": [],
-	"metadata": {
-		"async": true,
-		"v3": true,
-		"rate-limiter": true,
-		"cache": false
-	}
+{  
+    "owner":"stelar7",
+    "repo":"l4j8",
+    "language":"Java",
+    "description":"The _best_ wrapper around. get it? wrapper, around? I'm funny ok?!",
+    "links":[],
+    "metadata":{  
+        "version":"1.0.3"
+    },
+    "tags":[  
+        "v3",
+        "rate-limiting"
+    ]
 }
