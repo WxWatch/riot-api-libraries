@@ -2,7 +2,7 @@
   "owner": "BenFradet",
   "repo": "RiotSharp",
   "language": "C#",
-  "description": "RiotSharp's ASP .NET Core integration",
+  "description": "RiotSharp's ASP.NET Core integration",
   "links": [
     {
       "name": "NuGet",
