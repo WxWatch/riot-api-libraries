@@ -16,8 +16,8 @@
 	"metadata": {
 		"version": "v0.8"
 	},
-	"tags": {
+	"tags": [
 		"v3",
 		"rate-limiting"
-	}
+	]
 }
