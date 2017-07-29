@@ -9,8 +9,8 @@
          "url":"https://www.nuget.org/packages/RiotGamesApi.AspNetCore/"
       },
       {
-         "name":"Wiki",
-         "url":"https://github.com/msx752/RiotGamesApi.AspNetCore/wiki"
+         "name":"Usage",
+         "url":"https://github.com/msx752/RiotGamesApi.AspNetCore/blob/master/README.md#step-by-step-configuration"
       },
       {
          "name":"NuGet(Only v3 API ClassLibrary)",
