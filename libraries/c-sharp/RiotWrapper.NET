@@ -1,5 +1,5 @@
 {
-    "owner": "ChristianFreak, Chris/PJC",
+    "owner": "ChristianFreak",
     "repo": "RiotWrapper.NET",
     "description": "An asynchronus .NET wrapper for the League of Legends API",
     "language": "C#",
