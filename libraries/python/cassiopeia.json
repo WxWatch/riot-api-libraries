@@ -1,12 +1,16 @@
 {
-        "owner": "meraki-analytics",
-        "repo": "cassiopeia",
-        "language": "Python",
-        "links": [
-            {
-                "name": "Documentation",
-                "url": "http://cassiopeia.readthedocs.org/en/latest/"
-            }
-        ],
-        "metadata": {}
-    }
+    "owner": "meraki-analytics",
+    "repo": "cassiopeia",
+    "language": "Python",
+    "links": [
+        {
+            "name": "Documentation",
+            "url": "http://cassiopeia.readthedocs.org/en/latest/"
+        }
+    ],
+    "metadata": {},
+    "tags": [
+        "v3",
+        "rate-limiting"
+    ]
+}
