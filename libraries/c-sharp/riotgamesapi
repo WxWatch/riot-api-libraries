@@ -1,7 +1,7 @@
 {
    "owner":"Msx752",
-   "repo":"RiotGamesApi",
-   "description":"widely expanded RiotGames C# API v3 and upper Wrapper (.Net Core, Portable, .Net 4.6.2)",
+   "repo":"RiotGamesAPI",
+   "description":"Portable RiotGames API v3 and upper Wrapper",
    "language":"C#",
    "links":[
       {
@@ -18,7 +18,7 @@
       },
       {
        "name":"Documentation",
-       "url":"https://riotgamesapi.readme.io/"
+       "url":"https://riotgamesapi.readme.io/docs"
       }
    ],
    "metadata":{
