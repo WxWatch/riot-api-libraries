@@ -1,0 +1,33 @@
+{
+    "owner": "Daniel Sogl",
+    "repo": "lol-stats-api",
+    "description": "A ready to use, configurable League of Legends API",
+    "language": "JavaScript",
+    "links": [{
+            "name": "npm",
+            "url": "https://www.npmjs.com/package/lol-stats-api"
+        },
+        {
+            "name": "Documentation",
+            "url": "https://github.com/danielsogl/lol-stats-api"
+        }
+    ],
+    "metadata": {
+        "version": "1.0.0",
+        "rate-limiter": {
+            "per-region": false,
+            "burst": true,
+            "spread": true,
+            "method-rate-limiting": true
+        },
+        "cacher": {
+            "in-memory": true,
+            "redis": true
+        }
+    },
+    "tags": [
+        "v3",
+        "rate-limiting",
+        "caching"
+    ]
+}
