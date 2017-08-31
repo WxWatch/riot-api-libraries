@@ -1,20 +1,24 @@
 {
    "owner":"Msx752",
-   "repo":"RiotGamesApi.AspNetCore",
-   "description":"LeagueOfLegends v3 and upper API wrapper .Net Core 1.1",
+   "repo":"RiotGamesAPI",
+   "description":"Portable RiotGames API v3 and upper Wrapper",
    "language":"C#",
    "links":[
       {
-         "name":"NuGet",
+         "name":"AspNetCore",
          "url":"https://www.nuget.org/packages/RiotGamesApi.AspNetCore/"
       },
       {
-       "name":"Documentation",
-       "url":"https://riotgamesapi.readme.io/"
+         "name":"Portable",
+         "url":"https://www.nuget.org/packages/RiotGamesApi/"
       },
       {
-       "name":"V3ClassLibrary",
-       "url":"https://www.nuget.org/packages/RiotGamesApi.AspNetCore.RiotApi/"
+         "name":"AspNet",
+         "url":"https://www.nuget.org/packages/RiotGamesApi.AspNet/"
+      },
+      {
+       "name":"Documentation",
+       "url":"https://riotgamesapi.readme.io/docs"
       }
    ],
    "metadata":{
