@@ -4,16 +4,21 @@ const glob = require('glob');
 
 const v = new Validator();
 
-
 const libraries = [];
-const directory = './libraries/**/*.json';
-glob(directory, (err, files) => {
+const directory = './libraries/**/*';
+glob(directory, { nodir: true }, (err, files) => {
     let errors = [];
     if (err) {
         console.log('Error reading files', { err });
         process.exit(-1);
     } else {
         files.forEach((file) => {
+            // Check if file has .json extension
+            if (file.indexOf('.json') === -1) {
+                errors.push(`File ${file} does not end with .json`);
+                return;
+            }
+            
             const repo = require(file);
             const result = v.validate(repo, schema);
             if (result.errors.length > 0) {
