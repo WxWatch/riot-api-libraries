@@ -1,0 +1,23 @@
+{
+    "owner": "Colorfulstan",
+    "repo": "RiotRateLimiter-node",
+    "language": "JavaScript",
+    "links": [
+        {
+            "name": "npm",
+            "url": "https://www.npmjs.com/package/riot-ratelimiter"
+        }
+    ],
+    "metadata": {
+        "version": "0.0.7",
+        "unit-tested": true
+    },
+    "tags": [
+        "v3",
+        "rate-limiting",
+        "header-driven",
+        "burst",
+        "spread",
+        "per-region"
+    ]
+}
