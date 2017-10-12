@@ -12,5 +12,8 @@
                 "url": "http://taycaldwell.com/riot-api-java/"
             }
         ],
-        "metadata": {}
+        "metadata": {},
+        "tags":[  
+            "v3"
+        ]
     }
