@@ -1,0 +1,36 @@
+{
+    "owner": "cnguy",
+    "repo": "kayn",
+    "language": "JavaScript",
+    "links": [
+        {
+            "name": "npm",
+            "url": "https://www.npmjs.com/package/kayn"
+        },
+        {
+            "name": "rate-limiter-credits",
+            "url": "https://github.com/Colorfulstan/RiotRateLimiter-node"
+        }
+    ],
+    "metadata": {
+        "version": "0.0.4",
+        "rate-limiter": {
+            "header-driven": true,
+            "method-rate-limiting": true,
+            "per-region": true,
+            "per-endpoint": true,
+            "burst": true,
+            "spread": true
+        },
+        "cacher": {
+            "in-memory": true,
+            "redis": true,
+            "db": false
+        }
+    },
+    "tags": [
+        "v3",
+        "rate-limiting",
+        "caching"
+    ]
+}
