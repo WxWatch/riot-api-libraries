@@ -1,12 +1,33 @@
 {
-        "owner": "aj-r",
-        "repo": "RiotNet",
-        "language": "C#",
-        "links": [
-            {
-                "name": "NuGet",
-                "url": "https://www.nuget.org/packages/RiotNet/"
-            }
-        ],
-        "metadata": {}
-    }
+    "owner": "aj-r",
+    "repo": "RiotNet",
+    "language": "C#",
+    "links": [
+        {
+            "name": "NuGet",
+            "url": "https://www.nuget.org/packages/RiotNet/"
+        },
+        {
+            "name": "Documentation",
+            "url": "http://aj-r.github.io/RiotNet/docs/interface_riot_net_1_1_i_riot_client.html"
+        }
+    ],
+    "metadata": {
+        "v3": true,
+        "async": true,
+        "caching": {
+            "static-api": false,
+            "non-static-api": false
+        },
+        "rate-limiter": {
+            "header-driven": true,
+            "method-rate-limiting": false,
+            "per-region": true,
+            "per-endpoint": false
+        }
+    },
+    "tags": [
+        "v3",
+        "rate-limiting"
+    ]
+}
