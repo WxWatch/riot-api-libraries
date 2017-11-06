@@ -1,20 +1,19 @@
 {
-    "owner": "Colorfulstan",
-    "repo": "LeagueJS",
+    "owner": "cnguy",
+    "repo": "kayn",
     "language": "JavaScript",
     "links": [
         {
             "name": "npm",
-            "url": "https://www.npmjs.com/package/leaguejs"
+            "url": "https://www.npmjs.com/package/kayn"
         },
         {
-            "name": "gitter",
-            "url": "https://gitter.im/League-JS/"
+            "name": "rate-limiter-credits",
+            "url": "https://github.com/Colorfulstan/RiotRateLimiter-node"
         }
     ],
     "metadata": {
-        "version": "1.5.0",
-        "unit-tested": true,
+        "version": "0.0.4",
         "rate-limiter": {
             "header-driven": true,
             "method-rate-limiting": true,
@@ -25,7 +24,7 @@
         },
         "cacher": {
             "in-memory": true,
-            "redis": false,
+            "redis": true,
             "db": false
         }
     },

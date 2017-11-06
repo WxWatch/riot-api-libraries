@@ -1,0 +1,17 @@
+{
+    "owner": "MingweiSamuel",
+    "repo": "TeemoJS",
+    "language": "JavaScript",
+    "links": [
+        {
+            "name": "npm",
+            "url": "https://www.npmjs.com/package/teemojs"
+        }
+    ],
+    "metadata": {
+    },
+    "tags": [
+        "v3",
+        "rate-limiting"
+    ]
+}

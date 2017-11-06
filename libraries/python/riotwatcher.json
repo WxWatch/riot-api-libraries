@@ -1,10 +1,20 @@
 {
-        "owner": "Pseudonym117",
-        "repo": "Riot-Watcher",
-        "language": "Python",
-        "links": [],
-        "metadata": {},
-        "tags": [
-            "v3"
-        ]
-    }
+    "owner": "pseudonym117",
+    "repo": "Riot-Watcher",
+    "language": "Python",
+    "links": [
+        {
+            "name": "Documentation",
+            "url": "http://riot-watcher.readthedocs.io/en/latest/"
+        },
+        {
+            "name": "PyPi",
+            "url": "https://pypi.python.org/pypi/riotwatcher"
+        }
+    ],
+    "metadata": {},
+    "tags": [
+        "v3",
+        "rate-limiting"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "owner": "ChristianFreak",
+    "repo": "RiotWrapper.NET",
+    "description": "An asynchronus .NET wrapper for the League of Legends API",
+    "language": "C#",
+    "links": [
+        {
+            "name": "NuGet",
+            "url": "https://www.nuget.org/packages/RiotWrapper.NET/"
+        }
+    ],
+    "metadata": {},
+    "tags": [
+        "v3",
+        "rate-limiting"
+    ]
+}
