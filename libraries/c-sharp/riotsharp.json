@@ -1,12 +1,34 @@
 {
-        "owner": "BenFradet",
-        "repo": "RiotSharp",
-        "language": "C#",
-        "links": [
-            {
-                "name": "NuGet",
-                "url": "https://www.nuget.org/packages/RiotSharp"
-            }
-        ],
-        "metadata": {}
+  "owner": "BenFradet",
+  "repo": "RiotSharp",
+  "language": "C#",
+  "description": "Lightweight C# wrapper, based on .NET Standard Library 1.3",
+  "links": [
+    {
+      "name": "NuGet",
+      "url": "https://www.nuget.org/packages/RiotSharp"
+    },
+    {
+      "name": "Documentation",
+      "url": "http://benfradet.github.io/RiotSharp/api/index.html"
     }
+  ],
+  "metadata": {
+    "v3": true,
+    "async": true,
+    "caching": {
+      "static-api": true,
+      "non-static-api": false
+    },
+    "rate-limiter": {
+      "header-driven": false,
+      "method-rate-limiting": true,
+      "per-region": true,
+      "per-endpoint": true
+    }
+  },
+  "tags": [
+    "v3",
+    "rate-limiting"
+  ]
+}
