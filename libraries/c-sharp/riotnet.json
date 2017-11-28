@@ -21,9 +21,9 @@
         },
         "rate-limiter": {
             "header-driven": true,
-            "method-rate-limiting": false,
+            "method-rate-limiting": true,
             "per-region": true,
-            "per-endpoint": false
+            "per-endpoint": true
         }
     },
     "tags": [
