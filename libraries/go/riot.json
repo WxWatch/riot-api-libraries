@@ -2,7 +2,7 @@
   "owner": "yuhanfang",
   "repo": "riot",
   "description": "Go library for the Riot Games API",
-  "language": "go",
+  "language": "Go",
   "links": [
     {
       "name": "Documentation",
