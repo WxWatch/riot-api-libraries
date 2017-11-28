@@ -1,0 +1,19 @@
+{
+  "owner": "yuhanfang",
+  "repo": "riot",
+  "description": "Go library for the Riot Games API",
+  "language": "Go",
+  "links": [
+    {
+      "name": "Documentation",
+      "url": "https://github.com/yuhanfang/riot"
+    }
+  ],
+  "metadata": {
+    "version": "1.0"
+  },
+  "tags": [
+    "v3",
+    "rate-limiting"
+  ]
+}
