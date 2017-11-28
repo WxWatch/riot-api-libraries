@@ -1,0 +1,31 @@
+{
+    "owner": "neamar",
+    "repo": "riot-lol-api",
+    "description": "A library tuned to handle with very high volumes of requests to the API (over 1k requests per seconds) over one or many instances",
+    "language": "JavaScript",
+    "links": [
+        {
+            "name": "npm",
+            "url": "https://www.npmjs.com/package/riot-lol-api"
+        }
+    ],
+    "metadata": {
+        "version": "4.2.2",
+        "rate-limiter": {
+            "header-driven": true,
+            "method-rate-limiting": true,
+            "per-region": true,
+            "per-endpoint": true,
+            "burst": true
+        },
+        "cacher": {
+            "customizeable": true
+        }
+    },
+    "tags": [
+        "v3",
+        "rate-limiting",
+        "burst",
+        "high-usage"
+    ]
+}
