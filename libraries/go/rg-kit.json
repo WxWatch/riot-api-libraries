@@ -1,0 +1,21 @@
+{
+    "owner": "bbqtd",
+    "repo": "rg-kit",
+    "description": "A Riot Games developer toolkit",
+    "language": "Go",
+    "links": [
+        {
+            "name": "src",
+            "url": "https://github.com/bbqtd/rg-kit"
+        },
+        {
+            "name": "Documentation",
+            "url": "https://godoc.org/github.com/bbqtd/rg-kit"
+        }
+    ],
+    "metadata": {},
+    "tags": [
+        "v3",
+        "rate-limiting"
+    ]
+}
