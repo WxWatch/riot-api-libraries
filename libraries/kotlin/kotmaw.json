@@ -1,0 +1,14 @@
+{  
+    "owner":"stelar7",
+    "repo":"kotmaw",
+    "language":"Kotlin",
+    "description":"API Wrapper for kotlin",
+    "links":[],
+    "metadata":{},
+    "tags":[  
+        "v3",
+        "rate-limiting",
+        "async",
+        "android"
+    ]
+}
