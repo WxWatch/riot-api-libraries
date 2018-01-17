@@ -1,0 +1,19 @@
+{
+    "owner": "MingweiSamuel",
+    "repo": "Camille",
+    "language": "C#",
+    "links": [
+        {
+            "name": "NuGet",
+            "url": "https://www.nuget.org/packages/MingweiSamuel.Camille/"
+        }
+    ],
+    "metadata": {
+        "v3": true,
+        "async": true
+    },
+    "tags": [
+        "v3",
+        "rate-limiting"
+    ]
+}
