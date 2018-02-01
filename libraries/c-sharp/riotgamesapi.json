@@ -1,20 +1,20 @@
 {
    "owner":"Msx752",
    "repo":"RiotGamesAPI",
-   "description":"Portable RiotGames API v3 and upper Wrapper",
+   "description":"Riot Games API Library v3 (all in one)",
    "language":"C#",
    "links":[
       {
          "name":"AspNetCore",
-         "url":"https://www.nuget.org/packages/RiotGamesApi.AspNetCore/"
+         "url":"https://www.nuget.org/packages/RiotGamesAPI/"
       },
       {
-         "name":"Portable",
-         "url":"https://www.nuget.org/packages/RiotGamesApi/"
+         "name":"NetStandard",
+         "url":"https://www.nuget.org/packages/RiotGamesAPI/"
       },
       {
          "name":"AspNet",
-         "url":"https://www.nuget.org/packages/RiotGamesApi.AspNet/"
+         "url":"https://www.nuget.org/packages/RiotGamesAPI/"
       },
       {
        "name":"Documentation",
