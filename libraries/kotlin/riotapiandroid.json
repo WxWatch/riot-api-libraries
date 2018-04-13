@@ -1,0 +1,29 @@
+{
+    "owner": "nspu",
+    "repo": "riot-api-android",
+    "description": "A library to use riot api and datadragon with android. It uses Retrofit and Picasso.",
+    "language": "Kotlin",
+    "links": [
+        {
+            "name": "Github",
+            "url": "https://github.com/nspu/riot-api-android"
+        },
+        {
+            "name": "Documentation",
+            "url": "https://nspu.github.io/riot-api-android/docs/index.html"
+        },
+        {
+            "name": "Library (.aar)",
+            "url": "https://github.com/nspu/riot-api-android/releases"
+        }
+    ],
+    "metadata": {
+        "version": "0.0.1"
+    },
+    "tags": [
+        "v3",
+        "datadragon",
+        "android",
+        "caching"
+    ]
+}
