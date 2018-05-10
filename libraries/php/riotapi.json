@@ -5,16 +5,16 @@
 	"language": "PHP",
 	"links": [
 		{
-			"name": "Packagist",
-			"url": "https://packagist.org/packages/dolejska-daniel/riot-api"
-		},
-		{
 			"name": "GitHub Wiki",
 			"url": "https://github.com/dolejska-daniel/riot-api/wiki"
+		},
+		{
+			"name": "Packagist",
+			"url": "https://packagist.org/packages/dolejska-daniel/riot-api"
 		}
 	],
 	"metadata": {
-		"version": "v1.0.0"
+		"version": "v2.0.0"
 	},
 	"tags": [
 		"v3",
