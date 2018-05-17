@@ -1,0 +1,19 @@
+{
+    "owner": "Daniel Sogl",
+    "repo": "lol-api-wrapper",
+    "description": "A ready to run LoL API wrapper powered by Express.js and TypeScript",
+    "language": "TypeScript",
+    "links": [{
+        "name": "GitHub",
+        "url": "https://github.com/danielsogl/lol-api-wrapper"
+    }],
+    "tags": [
+        "v3",
+        "caching",
+        "ratelimit",
+        "heroku",
+        "express",
+        "typescript",
+        "redis"
+    ]
+}
