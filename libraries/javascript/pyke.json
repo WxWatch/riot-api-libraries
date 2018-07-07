@@ -1,0 +1,18 @@
+{
+    "owner": "systeme-cardinal",
+    "repo": "Pyke",
+    "language": "Javascript",
+    "links": [
+        {
+            "name": "npm",
+            "url": "https://www.npmjs.com/package/pyke"
+        }
+    ],
+    "metadata": {
+        "version": "1.0.5"
+    },
+    "tags": [
+        "v3",
+        "ddragon"
+    ]
+}
