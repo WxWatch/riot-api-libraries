@@ -2,7 +2,7 @@
     "owner": "protectator",
     "repo": "league-typedef",
     "description": "Typescript type definitions for the League of Legends API.",
-    "language": "Typescript",
+    "language": "TypeScript",
     "links": [{
         "name": "GitHub",
         "url": "https://github.com/Protectator/league-typedef"
