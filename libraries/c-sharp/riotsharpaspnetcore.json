@@ -3,12 +3,7 @@
   "repo": "RiotSharp",
   "language": "C#",
   "description": "RiotSharp's ASP.NET Core integration",
-  "links": [
-    {
-      "name": "NuGet",
-      "url": "https://www.nuget.org/packages/RiotSharp"
-    }
-  ],
+  "links": [],
   "metadata": {
     "v3": true,
     "async": true,
