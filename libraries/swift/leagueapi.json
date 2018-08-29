@@ -1,0 +1,22 @@
+{
+    "owner": "Kelmatou",
+    "repo": "LeagueAPI",
+    "description": "Framework providing all League of Legends data, with cache, rate-limit handling with auto retry system. Compatible with Carthage and Cocoapod.",
+    "language": "Swift",
+    "links": [
+        {
+            "name": "Github",
+            "url": "https://github.com/Kelmatou/LeagueAPI"
+        },
+        {
+            "name": "Documentation",
+            "url": "https://github.com/Kelmatou/LeagueAPI/wiki"
+        }
+
+    ],
+    "metadata": {},
+    "tags": [
+        "v3",
+        "rate-limiting"
+    ]
+}
