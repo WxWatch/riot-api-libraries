@@ -1,0 +1,23 @@
+{
+  "owner": "SKarajic",
+  "repo": "JarvanScript",
+  "description": "A TypeScript Riot API wrapper",
+  "language": "TypeScript",
+  "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/SKarajic/JarvanScript"
+      },
+      {
+        "name": "NPM",
+        "url": "https://www.npmjs.com/package/jarvanscript"
+      }
+  ],
+  "metadata": {
+      "version": "0.4.2-alpha"
+  },
+  "tags": [
+      "v3",
+      "rate-limiting"
+  ]
+}
