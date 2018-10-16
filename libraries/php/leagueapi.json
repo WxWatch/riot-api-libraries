@@ -1,0 +1,14 @@
+{
+    "owner": "rennokki",
+    "repo": "league-api",
+    "description": "League API is a PHP wrapper of RIOT Games' League of Legends API. This wrapper gives you access to both REST API and Data Dragon in an eloquent way that you'll love!",
+    "language": "PHP",
+    "links": [
+    ],
+    "metadata": {
+      "version": "1.0.2"
+    },
+    "tags": [
+        "v3"
+    ]
+}
