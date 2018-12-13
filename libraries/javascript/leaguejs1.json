@@ -13,7 +13,7 @@
         }
     ],
     "metadata": {
-        "version": "1.5.0",
+        "version": "1.10.1",
         "unit-tested": true,
         "rate-limiter": {
             "header-driven": true,
@@ -31,7 +31,8 @@
     },
     "tags": [
         "v3",
-        "rate-limiting",
-        "caching"
+        "caching",
+        "ddragon",
+        "rate-limiting"
     ]
 }

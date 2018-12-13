@@ -2,13 +2,8 @@
   "owner": "BenFradet",
   "repo": "RiotSharp",
   "language": "C#",
-  "description": "RiotSharp's ASP.NET Core integration",
-  "links": [
-    {
-      "name": "NuGet",
-      "url": "https://www.nuget.org/packages/RiotSharp"
-    }
-  ],
+  "description": "RiotSharp's ASP.NET Core integration. **NOTE: NuGet releases are severely outdated, although library itself is maintained!**",
+  "links": [],
   "metadata": {
     "v3": true,
     "async": true,

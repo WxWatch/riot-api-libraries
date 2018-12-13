@@ -1,0 +1,23 @@
+{
+    "owner": "pinddfull",
+    "repo": "RiotAPI.grab",
+    "language": "TypeScript",
+    "links": [
+        {
+            "name": "npm",
+            "url": "https://www.npmjs.com/package/riotapi-grab"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/pinddFull/RiotAPI.grab"
+        }
+    ],
+    "metadata": {
+        "version": "0.0.3"
+    },
+    "tags": [
+        "v3",
+        "rate-limiter"
+    ]
+}
+

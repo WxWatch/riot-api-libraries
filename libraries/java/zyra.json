@@ -5,7 +5,7 @@
     "links": [
         {
             "name": "Maven",
-            "url": "http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.mingweisamuel.zyra%22%20AND%20a%3A%22zyra%22"
+            "url": "https://search.maven.org/search?q=g:com.mingweisamuel.zyra%20AND%20a:zyra"
         },
         {
             "name": "Nightlies",
