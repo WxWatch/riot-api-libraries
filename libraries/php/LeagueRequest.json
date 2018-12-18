@@ -1,27 +1,28 @@
 {
     "owner": "grecko-creations",
-    "repo": "Twitch",
+    "repo": "LeagueRequest",
     "description": "A powerful API wrapper for the League of Legends public API.",
     "language": "PHP",
     "links": [
         {
             "name": "Documentation",
-            "url": "https://twitch.supergrecko.com"
+            "url": "https://github.com/grecko-creations/LeagueRequest/wiki"
         },
         {
             "name": "GitHub",
-            "url": "https://github.com/grecko-creations/Twitch"
+            "url": "https://github.com/grecko-creations/LeagueRequest"
         },
         {
             "name": "Packagist",
-            "url": "https://packagist.org/packages/supergrecko/twitch"
+            "url": "https://packagist.org/packages/supergrecko/league-request"
         }
     ],
     "metadata": {
-        "version": "1.0.0"
+        "version": "1.1.1"
     },
     "tags": [
         "v4",
-        "caching"
+        "caching",
+        "simple"
     ]
 }
