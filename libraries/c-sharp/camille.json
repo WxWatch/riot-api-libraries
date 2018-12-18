@@ -2,6 +2,7 @@
     "owner": "MingweiSamuel",
     "repo": "Camille",
     "language": "C#",
+    "description": "Fully rate limited, automatic retrying, thread-safe. V4 Supported. Automatic nightly releases.",
     "links": [
         {
             "name": "NuGet",
@@ -10,10 +11,18 @@
     ],
     "metadata": {
         "v3": true,
-        "async": true
+        "v4": true,
+        "async": true,
+        "rate-limiter": {
+          "header-driven": true,
+          "method-rate-limiting": true,
+          "per-region": true,
+          "per-endpoint": true
+        }
     },
     "tags": [
         "v3",
+        "v4",
         "rate-limiting"
     ]
 }
