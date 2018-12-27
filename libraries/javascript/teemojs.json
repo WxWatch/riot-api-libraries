@@ -2,6 +2,7 @@
     "owner": "MingweiSamuel",
     "repo": "TeemoJS",
     "language": "JavaScript",
+    "description": "Fast & tiny, automatic retries & smart rate limiting, V4 & champion.gg support, all in 300 lines.",
     "links": [
         {
             "name": "npm",
@@ -9,9 +10,19 @@
         }
     ],
     "metadata": {
+        "v3": true,
+        "v4": true,
+        "async": true,
+        "rate-limiter": {
+          "header-driven": true,
+          "method-rate-limiting": true,
+          "per-region": true,
+          "per-endpoint": true
+        }
     },
     "tags": [
         "v3",
+        "v4",
         "rate-limiting"
     ]
 }
