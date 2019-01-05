@@ -18,11 +18,13 @@
         }
     ],
     "metadata": {
-        "version": "1.1.1"
+        "version": "1.2.2"
     },
     "tags": [
         "v4",
         "caching",
-        "simple"
+        "simple",
+        "dto-support",
+        "rate-limiting"
     ]
 }
