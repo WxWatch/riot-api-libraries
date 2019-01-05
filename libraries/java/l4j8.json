@@ -2,13 +2,10 @@
     "owner":"stelar7",
     "repo":"L4J8",
     "language":"Java",
-    "description":"The _best_ wrapper around. get it? wrapper, around? I'm funny ok?!",
+    "description":"The __**best**__ wrapper around. get it? wrapper, around? I'm funny ok?!",
     "links":[],
-    "metadata":{  
-        "version":"1.0.3"
-    },
+    "metadata":{},
     "tags":[  
-        "v3",
-        "rate-limiting"
+        "v4"
     ]
 }
