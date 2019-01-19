@@ -9,9 +9,9 @@
 5. [Future Work](#future-improvementssuggestions)
 
 ## Introduction
-This repository is the home of the configuration files that power the [Public Libraries for the Riot Games API](https://discussion.developer.riotgames.com/articles/61/public-libraries-for-the-riot-games-api.html) article on the [Riot Games API Discussion Boards](https://discussion.developer.riotgames.com/index.html). 
+This repository is the home of the configuration files that power the `!libs` command for BottyMcBotFace on the Riot Games API Developer Community (https://discord.gg/riotapi)
 
-The aim of this repository is to provide a semi-automated, centralized way for 3rd Party Library Creators to manage the exposure of their libraries on the [Riot Games API Discussion Boards](https://discussion.developer.riotgames.com/index.html).
+The aim of this repository is to provide a semi-automated, centralized way for 3rd Party Library Creators to manage the exposure of their libraries to other 3rd Party Developers.
 
 ## How It Works
 ### Directory Structure
@@ -33,7 +33,7 @@ Each JSON file should consist of a single `RepoObject` JSON object with the foll
 - `links` [**array**] - An array of `RepoLink` objects
 - `metadata` [**object**] - An object containing metadata on the library.
 - `tags` [**array**] - An array of strings indicating which features are supported by the library. This array can contain any tags, but only the following are currently used:
-  - `v3` - Include if the library supports `v3` of the Riot Games API
+  - `v4` - Include if the library supports `v4` of the Riot Games API. Note that BottyMcBotFace will only show a library that has the `v4` tag.
   - `rate-limiting` - Include if the library natively handles rate limiting headers from the Riot Games API
 
 #### RepoLink
@@ -71,7 +71,7 @@ Awesome! Simply create a Pull Request that adds a file with your library's confi
 It's simple to fix! Simply create a Pull Request that updates the configuration file for your library. Once we verify that everything is correct, we'll merge it in and you're all set!
 
 ## Troubleshooting
-For any specific issues / feature requests, you can create a Github Issue or reach out to WxWatch on the [Riot API Community Discord](https://discord.gg/uYW7qhP)
+For any specific issues / feature requests, you can create a Github Issue or reach out to WxWatch on the [Riot API Community Discord](https://discord.gg/riotapi)
 
 ## Future Improvements/Suggestions
 - ~~With the upcoming deprecation of `pre-v3` APIs, a way for libraries to be marked as `supporting v3 `.~~ Done!
