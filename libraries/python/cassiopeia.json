@@ -1,16 +1,19 @@
 {
-    "owner": "meraki-analytics",
-    "repo": "cassiopeia",
-    "language": "Python",
-    "links": [
-        {
-            "name": "Documentation",
-            "url": "http://cassiopeia.readthedocs.org/en/latest/"
-        }
-    ],
-    "metadata": {},
-    "tags": [
-        "v3",
-        "rate-limiting"
-    ]
+  "owner": "meraki-analytics",
+  "repo": "cassiopeia",
+  "description": "A highly configurable, usability-focused Riot API framework that takes care of all the details for you so you can focus on building your application",
+  "language": "Python",
+  "links": [{
+    "name": "PyPi",
+    "url": "https://pypi.org/project/cassiopeia/"
+  }, {
+    "name": "Documentation",
+    "url": "http://cassiopeia.readthedocs.org/en/latest/"
+  }],
+  "metadata": {},
+  "tags": [
+    "v4",
+    "rate-limiting",
+    "caching"
+  ]
 }
