@@ -3,23 +3,19 @@
   "repo": "orianna",
   "description": "A highly configurable, usability-focused Riot API framework that takes care of all the details for you so you can focus on building your application",
   "language": "Java",
-  "links": [
-    {
-      "name": "Maven",
-      "url": "https://search.maven.org/search?q=g:com.merakianalytics.orianna"
-    },
-    {
-      "name": "Documentation",
-      "url": "http://orianna.readthedocs.org/en/latest/"
-    },
-    {
-      "name": "JavaDoc",
-      "url": "http://javadoc.io/doc/com.merakianalytics.orianna/orianna"
-    }
-  ],
+  "links": [{
+    "name": "Maven",
+    "url": "https://search.maven.org/search?q=g:com.merakianalytics.orianna"
+  }, {
+    "name": "Documentation",
+    "url": "http://orianna.readthedocs.org/en/latest/"
+  }, {
+    "name": "JavaDoc",
+    "url": "http://javadoc.io/doc/com.merakianalytics.orianna/orianna"
+  }],
   "metadata": {},
   "tags": [
-    "v3",
+    "v4",
     "rate-limiting",
     "caching"
   ]
