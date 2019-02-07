@@ -5,12 +5,9 @@
   "description": "RiotSharp's ASP.NET Core integration. **NOTE: NuGet releases are severely outdated, although library itself is maintained!**",
   "links": [],
   "metadata": {
-    "v3": true,
+    "v4": true,
     "async": true,
-    "caching": {
-      "static-api": true,
-      "non-static-api": false
-    },
+    "caching": false,
     "rate-limiter": {
       "header-driven": false,
       "method-rate-limiting": true,
@@ -19,7 +16,7 @@
     }
   },
   "tags": [
-    "v3",
+    "v4",
     "rate-limiting",
     "asp-net-core"
   ]
