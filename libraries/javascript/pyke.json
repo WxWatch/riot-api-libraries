@@ -9,10 +9,11 @@
         }
     ],
     "metadata": {
-        "version": "1.0.5"
+        "version": "3.0.0"
     },
     "tags": [
-        "v3",
-        "ddragon"
+        "v4",
+        "ddragon",
+        "communitydragon"
     ]
 }
