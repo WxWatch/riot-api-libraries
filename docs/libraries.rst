@@ -55,7 +55,7 @@ Links
 - `JavaDoc <http://javadoc.io/doc/com.merakianalytics.orianna/orianna>`_
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting, caching
-| Last Updated: Feb 14, 2019
+| Last Updated: Feb 15, 2019
 
 -----------------
 
@@ -118,7 +118,7 @@ Links
 - `npm <https://www.npmjs.com/package/teemojs>`_
 | License: `LGPL-3.0 <http://choosealicense.com/licenses/lgpl-3.0>`_
 | Tags: v3, v4, rate-limiting
-| Last Updated: Jan 24, 2019
+| Last Updated: Jan 25, 2019
 
 -----------------
 
