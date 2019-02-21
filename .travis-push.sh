@@ -27,3 +27,5 @@ upload_files() {
 }
 
 setup_git
+commit_libraries_rst
+upload_files
