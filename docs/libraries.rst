@@ -81,7 +81,7 @@ Links
 - `npm <https://www.npmjs.com/package/pyke>`_
 | License: `GPL-3.0 <http://choosealicense.com/licenses/gpl-3.0>`_
 | Tags: v4, ddragon, communitydragon
-| Last Updated: Feb 12, 2019
+| Last Updated: Feb 21, 2019
 
 -----------------
 
@@ -138,7 +138,7 @@ Links
 Python
 ------------------------------------------
 
-`cassiopeia <https://github.com/meraki-analytics/cassiopeia>`_ (☆ 187)
+`cassiopeia <https://github.com/meraki-analytics/cassiopeia>`_ (☆ 188)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A highly configurable, usability-focused Riot API framework that takes care of all the details for you so you can focus on building your application
