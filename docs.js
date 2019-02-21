@@ -3,7 +3,7 @@ const dateformat = require('dateformat');
 const { concatJsonFiles, resolveRepos } = require('./utilities');
 
 const execute = async () => {
-    console.log('Starting...');
+    console.log('Building docs...');
     const configs = await concatJsonFiles('libraries');
     const data = await resolveRepos(configs);
     const reposByLanguage = extractGroups(data);
@@ -27,7 +27,7 @@ const execute = async () => {
         });
 
         if (!containsValidLibrary(repos)) {
-            console.log(`${name} does not have any v3-supported repos`);
+            // console.log(`${name} does not have any v4-supported repos`);
             continue;
         }
 
@@ -43,7 +43,7 @@ const execute = async () => {
 
         for (const repo of repos) {
             if (!repo.config.tags || repo.config.tags.indexOf('v4') < 0) {
-                console.log(`${repo.remote.owner}/${repo.remote.name} does not support v4`);
+                // console.log(`${repo.remote.owner}/${repo.remote.name} does not support v4`);
                 continue;
             }
 
@@ -97,7 +97,7 @@ ${repo.config.description || repo.remote.description}
     }
 
     writeToFile(libraryString);
-    console.log('Successfully Updated Article');
+    console.log('Successfully built libraries.rst');
 }
 
 const writeToFile = (text) => {

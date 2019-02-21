@@ -72,20 +72,3 @@ const arrayIncludes = (array, item) => {
     }
     return array.indexOf(item) > -1;
 };
-
-const getTagsForRepo = (repo) => {
-    const tags = [];
-    if (arrayIncludes(repo.tags, 'v3')) {
-        tags.push('v3');
-    }
-
-    if (arrayIncludes(repo.tags, 'rate-limiting')) {
-        tags.push('rate-limiting');
-    }
-
-    if (tags.length > 0) {
-        return tags;
-    }
-
-    return null;
-};
