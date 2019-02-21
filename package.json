@@ -4,7 +4,8 @@
   "description": "## Table of Contents 1. [Introduction](#introduction) 2. [How It Works](#how-it-works) 2. [I Want to Include My Library!](#i-want-to-include-my-library) 3. [My Library's Information is Wrong/Outdated](#my-librarys-information-is-wrongoutdated) 4. [Troubleshooting](#troubleshooting) 5. [Future Work](#future-improvementssuggestions)",
   "main": "validate.js",
   "scripts": {
-    "test": "node validate.js"
+    "test": "node validate.js",
+    "docs": "node docs.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,12 @@
   },
   "homepage": "https://github.com/WxWatch/riot-api-libraries#readme",
   "dependencies": {
-    "glob": "^7.1.1",
-    "jsonschema": "^1.1.1"
+    "@octokit/rest": "^16.16.0",
+    "bluebird": "^3.5.3",
+    "dateformat": "^3.0.3",
+    "github": "^14.0.0",
+    "glob": "^7.1.3",
+    "jsonschema": "^1.1.1",
+    "npm": "^6.8.0"
   }
 }
