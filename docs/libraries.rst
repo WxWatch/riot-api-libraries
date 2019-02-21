@@ -33,12 +33,6 @@ Links
 
 -----------------
 
-Elixir
-------------------------------------------
-
-Go
-------------------------------------------
-
 Java
 ------------------------------------------
 
@@ -122,9 +116,6 @@ Links
 
 -----------------
 
-Kotlin
-------------------------------------------
-
 PHP
 ------------------------------------------
 
@@ -144,6 +135,85 @@ Links
 
 -----------------
 
-TypeScript
+Python
 ------------------------------------------
+
+`cassiopeia <https://github.com/meraki-analytics/cassiopeia>`_ (☆ 187)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A highly configurable, usability-focused Riot API framework that takes care of all the details for you so you can focus on building your application
+
+Links
+::::::::::::::::
+
+- `PyPi <https://pypi.org/project/cassiopeia/>`_
+- `Documentation <http://cassiopeia.readthedocs.org/en/latest/>`_
+| License: `MIT <http://choosealicense.com/licenses/mit>`_
+| Tags: v4, rate-limiting, caching
+| Last Updated: Feb 20, 2019
+
+-----------------
+
+`pantheon <https://github.com/Canisback/pantheon>`_ (☆ 6)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Riot API library for Python and asyncio
+
+Links
+::::::::::::::::
+
+| License: `MIT <http://choosealicense.com/licenses/mit>`_
+| Tags: v4, rate-limiting
+| Last Updated: Jan 29, 2019
+
+-----------------
+
+`Riot-Watcher <https://github.com/pseudonym117/Riot-Watcher>`_ (☆ 218)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Python wrapper for the Riot Games API for League of Legends
+
+Links
+::::::::::::::::
+
+- `Documentation <http://riot-watcher.readthedocs.io/en/latest/>`_
+- `PyPi <https://pypi.python.org/pypi/riotwatcher>`_
+| License: `MIT <http://choosealicense.com/licenses/mit>`_
+| Tags: v4, rate-limiting
+| Last Updated: Jan 29, 2019
+
+-----------------
+
+Swift
+------------------------------------------
+
+`LeagueAPI <https://github.com/Kelmatou/LeagueAPI>`_ (☆ 8)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Framework providing all League of Legends data, with cache, rate-limit handling with auto retry system. Compatible with Carthage and Cocoapod.
+
+Links
+::::::::::::::::
+
+- `Github <https://github.com/Kelmatou/LeagueAPI>`_
+- `Documentation <https://github.com/Kelmatou/LeagueAPI/wiki>`_
+| License: `MIT <http://choosealicense.com/licenses/mit>`_
+| Tags: v4, rate-limiting
+| Last Updated: Feb 1, 2019
+
+-----------------
+
+`DragonService <https://github.com/WxWatch/DragonService>`_ (☆ 1)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Swift package to fetch data from DataDragon
+
+Links
+::::::::::::::::
+
+| License: `MIT <http://choosealicense.com/licenses/mit>`_
+| Tags: v4
+| Last Updated: Nov 20, 2018
+
+-----------------
 
