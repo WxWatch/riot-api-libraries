@@ -8,6 +8,7 @@ setup_git() {
 
 commit_libraries_rst() {
   git remote update
+  git remote
   git fetch
   git branch
   git checkout master
