@@ -4,6 +4,7 @@
 setup_git() {
   git config --global user.email "travis@travis-ci.org"
   git config --global user.name "Travis CI"
+  git config remote.origin.fetch "+refs/heads/*:refs/remotes/origin/*"
 }
 
 commit_libraries_rst() {
