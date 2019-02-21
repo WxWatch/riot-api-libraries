@@ -9,6 +9,7 @@ setup_git() {
 commit_libraries_rst() {
   git remote update
   git fetch
+  git branch
   git checkout master
   # Current month and year, e.g: Apr 2018
   dateAndMonth=`date "+%b %Y"`
