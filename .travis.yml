@@ -1,6 +1,6 @@
 language: node_js
 node_js: "8"
-install: "npm install"
+install: "npm ci"
 script: 
   - 'if [ "$TRAVIS_PULL_REQUEST" = "true" ]; then npm run test; fi'
   - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then npm run docs; fi'

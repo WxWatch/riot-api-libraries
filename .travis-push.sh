@@ -8,11 +8,12 @@ setup_git() {
 }
 
 commit_libraries_rst() {
-  git remote update
-  git remote
   git fetch
-  git branch
+  # Stash changes
+  git stash
   git checkout master
+  # Unstash
+  git stash apply
   # Current month and year, e.g: Apr 2018
   dateAndMonth=`date "+%b %Y"`
   # Stage the modified files in dist/output
