@@ -1,0 +1,55 @@
+You can build the docs locally by running:
+
+  make clean html
+
+You will need to `pip/conda install sphinx sphinx_rtd_theme` to do so.
+
+
+
+Things we may want to add:
+
+* Rate limiting: https://developer.riotgames.com/rate-limiting.html
+
+* Caching
+
+* Issues on github
+  - https://github.com/RiotGames/developer-relations/issues
+  - Link to commonly asked things
+
+* 3D model viewer?
+
+* MMR
+
+* Swagger: http://www.mingweisamuel.com/riotapi-schema/tool/
+
+* Overwolf (and generally getting in-game info)
+
+* .garena
+Garena API access has been in closed beta since around January 2018. There is no ETA for when it will be made available to the general public.
+
+* .login-issues
+If you have issues logging in to the devportal, try; Clicking the "signout" button if its there Clearing your browser's cache Using an incognito/private window Logging in to https://na.leagueoflegends.com/en/
+
+* .perks
+Rune list: http://ddragon.leagueoflegends.com/cdn/{ddragonVersion}/data/en_US/runesReforged.json Rune icons: the icon field for each rune is relative to https://ddragon.leagueoflegends.com/cdn/img/ (e.g. https://ddragon.leagueoflegends.com/cdn/img/perk-images/Styles/Domination/Electrocute/Electrocute.png)
+
+* .rso
+RSO is Riot Sign-On, the login logic you see whenever you access anything that requires your account.
+Awhile back, they stopped doing updates on RSO's timeline because its a very slow moving beast. You can think of Riot as a few dozen internal teams. They each have their own goals and can move their group in a direction that they best see fit for Riot and League of Legends. Obviously, upper management has goals and things in mind, but these groups can strive for those goals in any fashion they like, as they have that freedom.
+Now, the API itself is nothing more than an edge layer that exposes the internal APIs. Each endpoint you hit, is the same endpoints (more or less) that the game uses itself, the API ones are exposed to the public. The API endpoints are all managed by different internal teams. One team could control /summoner/ and another the /match/ endpoints. Meaning if the API team wanted to add a new field to all endpoints then every team would have to do this, as the internal teams control their respective API endpoints not the API team itself.
+Now on top of this those teams could say "Well I know you want this but its not a priority for us right now, sorry". And BOOM, the idea is dead.
+Same deal with the RSO, however, rather than adding a simple field they are now exposing private data which on top of not being a priority for some teams, it may also be something certain teams refuse to do, as they think it will be too big of a risk. If Developer Jimmy finds a flaw in the RSO API, they could start pulling actual sensitive and private data, that's a very real and scary thing, because you also use RSO to go view things like your account information and billing, etc.
+So part of the battle is still in defining how they would actually go about this in a safe way, on top of making it an actual priority for every single team that would be involved with it.
+TLDR: RSO is a goal, but will take time due to security and priority concerns.
+
+* .game-constants
+https://developer.riotgames.com/game-constants.html
+
+* .jibber-jabber and .money
+Guidelines concerning the usage of Riot's intellectual property can be found here: https://www.riotgames.com/legal-jibber-jabber
+https://developer.riotgames.com/policies.html#monetization
+
+* .repo
+https://github.com/Querijn/BottyMcBotface
+
+* What is the best way to track all games on a server as they happen? Could I keep incrementing matchID and process games at a 4 hour delay 
