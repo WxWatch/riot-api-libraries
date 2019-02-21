@@ -2,12 +2,12 @@ language: node_js
 node_js: "8"
 install: "npm install"
 script: 
-  - 'if [ "$TRAVIS_PULL_REQUEST" = "true" ]; then npm run test; fi'
-  - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then npm run docs; fi'
+  - npm run test'
+  - 'if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" = false ]; then npm run docs; fi'
 dist: trusty
 sudo: false
 cache:
   directories:
     - "node_modules"
 after_success:
-- 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then sh .travis-push.sh; fi'
+- 'if [ "$TRAVIS_BRANCH" == "master" ] && [ "$TRAVIS_PULL_REQUEST" = false ]; then sh .travis-push.sh; fi'
