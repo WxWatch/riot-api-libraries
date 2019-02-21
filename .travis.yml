@@ -2,6 +2,10 @@ language: node_js
 node_js: "6"
 install: "npm install"
 script: "npm run test"
+jobs:
+  include:
+    if: branch = feature/docs
+    script: "npm run docs"
 dist: trusty
 sudo: false
 cache:
