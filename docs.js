@@ -106,7 +106,7 @@ const writeToFile = (text) => {
 
 const containsValidLibrary = (repos) => {
     for (const repo of repos) {
-        if (repo.config.tags && repo.config.tags.indexOf('v3') > -1) {
+        if (repo.config.tags && repo.config.tags.indexOf('v4') > -1) {
             return true;
         }
     }
