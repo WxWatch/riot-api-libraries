@@ -1,5 +1,5 @@
-You Application
-===============
+Your Application
+================
 
 You can apply for a personal or production app by clicking "Register Project" on the main dev portal `page <https://developer.riotgames.com/>`_.
 
