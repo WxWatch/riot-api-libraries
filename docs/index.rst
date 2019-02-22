@@ -29,10 +29,10 @@ There are a few crucial things to know about the Riot API.
    :caption: Contents:
 
    libraries
-   ..ddragon
+   ddragon
    applications
    ..specifics
-   ..lcu
+   lcu
    ..replayapi
    ..mobile
    ..collectingdata
