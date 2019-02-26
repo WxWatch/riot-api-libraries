@@ -4,7 +4,21 @@ Riot API Libraries
 C#
 ------------------------------------------
 
-`Camille <https://github.com/MingweiSamuel/Camille>`_ (☆ 7)
+`RiotSharp <https://github.com/BenFradet/RiotSharp>`_ (☆ 183)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+RiotSharp's ASP.NET Core integration. **NOTE: NuGet releases are severely outdated, although library itself is maintained!**
+
+Links
+::::::::::::::::
+
+| License: `MIT <http://choosealicense.com/licenses/mit>`_
+| Tags: v4, rate-limiting, asp-net-core
+| Last Updated: Feb 25, 2019
+
+-----------------
+
+`Camille <https://github.com/MingweiSamuel/Camille>`_ (☆ 8)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Fully rate limited, automatic retrying, thread-safe. V4 Supported. Automatic nightly releases.
@@ -19,24 +33,10 @@ Links
 
 -----------------
 
-`RiotSharp <https://github.com/BenFradet/RiotSharp>`_ (☆ 182)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-RiotSharp's ASP.NET Core integration. **NOTE: NuGet releases are severely outdated, although library itself is maintained!**
-
-Links
-::::::::::::::::
-
-| License: `MIT <http://choosealicense.com/licenses/mit>`_
-| Tags: v4, rate-limiting, asp-net-core
-| Last Updated: Feb 16, 2019
-
------------------
-
 Java
 ------------------------------------------
 
-`orianna <https://github.com/meraki-analytics/orianna>`_ (☆ 88)
+`orianna <https://github.com/meraki-analytics/orianna>`_ (☆ 89)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A highly configurable, usability-focused Riot API framework that takes care of all the details for you so you can focus on building your application
@@ -49,7 +49,7 @@ Links
 - `JavaDoc <http://javadoc.io/doc/com.merakianalytics.orianna/orianna>`_
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting, caching
-| Last Updated: Feb 15, 2019
+| Last Updated: Feb 26, 2019
 
 -----------------
 
@@ -81,11 +81,11 @@ Links
 - `npm <https://www.npmjs.com/package/pyke>`_
 | License: `GPL-3.0 <http://choosealicense.com/licenses/gpl-3.0>`_
 | Tags: v4, ddragon, communitydragon
-| Last Updated: Feb 21, 2019
+| Last Updated: Feb 26, 2019
 
 -----------------
 
-`kayn <https://github.com/cnguy/kayn>`_ (☆ 72)
+`kayn <https://github.com/cnguy/kayn>`_ (☆ 73)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 superagent-inspired Node.js lib (w/ **some** TypeScript support) for accessing Riot's League of Legend's API (discord: cnguy#3614)
@@ -168,7 +168,7 @@ Links
 
 -----------------
 
-`Riot-Watcher <https://github.com/pseudonym117/Riot-Watcher>`_ (☆ 218)
+`Riot-Watcher <https://github.com/pseudonym117/Riot-Watcher>`_ (☆ 219)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Python wrapper for the Riot Games API for League of Legends
