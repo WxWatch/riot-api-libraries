@@ -31,11 +31,12 @@ There are a few crucial things to know about the Riot API.
    libraries
    ddragon
    applications
-   ..specifics
+   ids
    lcu
-   ..replayapi
-   ..mobile
-   ..collectingdata
+   mobile
+   replayapi
+   collectingdata
+   specifics
    roleid
    ..esports
 
