@@ -40,6 +40,8 @@ Common Issues
 
 * If You can't find something in ddragon, Look in cdragon or ask on Discord.
 
+* The image filenames for champions, items, etc. can be found by looking at the :code:`image.full` fields in the json data.
+
 * Monkeyking. Yes, Wukong's internal name is :code:`monkeyking`. You can identify the correct internal name for every champion by looking at the :code:`key` attribute in the `champion.json <http://ddragon.leagueoflegends.com/cdn/9.3.1/data/en_US/champion.json>`_ file.
 
 * The data in ddragon is inaccurate, especially champion spell data and item stats. This is an unfortunate situation that is surprisingly difficult to solve. If you want to know why, you can ask on Discord. There is no perfect or even close to perfect source for champion spell data, despite significant effort. The `League Wikia <https://leagueoflegends.fandom.com/wiki/League_of_Legends_Wiki>`_ is your best resource.
