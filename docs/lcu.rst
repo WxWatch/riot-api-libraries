@@ -31,7 +31,7 @@ Starting the LCU with the flag :code:`--mode unattended` will allow you to use s
 
 You can create a normal game mode lobby by passing the queue ID (:code:`{"queueId":430}`) to the :code:`/lol-lobby/v2/` POST endpoint.
 
-To create a custom game lobby, use the below POST request. Change PRACTICETOOL to CLASSIC if you don't want it to be a practice game.
+To create a custom game lobby, use the below POST request. Change :code:`PRACTICETOOL` to :code:`CLASSIC` if you don't want it to be a practice game.
 
 .. code-block:: json
 
@@ -47,3 +47,8 @@ To create a custom game lobby, use the below POST request. Change PRACTICETOOL t
       },
       "isCustom": true
     }
+
+
+These flags are useful: :code:`--app-port=1337 --headless --allow-multiple-clients`.
+
+If you are running on Linux with Wine, you need to set the Wine prefix to Windows XP and have wine-staging for compatibility with the anti cheat.
