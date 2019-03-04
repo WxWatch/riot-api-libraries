@@ -15,9 +15,9 @@ There are a few crucial things to know about the Riot API.
 
 * Applications take ~ two weeks (10 business days, barring holidays) to process. Make sure it's verified (riot.txt). If it's been longer than two weeks and you didn't change your application during that time period, ask a Guru on Discord for help.
 
-* You should use a `library <https://riot-api-libraries.readthedocs.io/en/latest/index.html>`_! All libraries are developed by the community and will make using the Riot API *much* easier. Nearly all of them take care of rate limiting, for example.
+* You should use a `library <https://riot-api-libraries.readthedocs.io/en/latest/libraries.html>`_! All libraries are developed by the community and will make using the Riot API *much* easier. Nearly all of them take care of rate limiting, for example.
 
-* If you have questions, you can ask on the `Discord <https://discordapp.com/invite/012zEL33LUQLlYIHn>`_, but check here first. We try to collect common questions and put them in this documentation.
+* If you have questions, you can ask on the `Discord <discord.gg/riotapi>`_, but check here first. We try to collect common questions and put them in this documentation.
 
 * To convert champion IDs to names, use `Data Dragon <https://riot-api-libraries.readthedocs.io/en/latest/ddragon.html>`_.
 
