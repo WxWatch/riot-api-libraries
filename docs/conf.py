@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Riot API Libraries'
-copyright = '2019, WxWatch'
-author = 'WxWatch'
+copyright = '2019, Riot API Community'
+author = 'Riot API Community'
 
 # The short X.Y version
 version = ''
