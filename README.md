@@ -33,7 +33,7 @@ Each JSON file should consist of a single `RepoObject` JSON object with the foll
 - `links` [**array**] - An array of `RepoLink` objects
 - `metadata` [**object**] - An object containing metadata on the library.
 - `tags` [**array**] - An array of strings indicating which features are supported by the library. This array can contain any tags, but only the following are currently used:
-  - `v4` - Include if the library supports `v4` of the Riot Games API. Note that BottyMcBotFace will only show a library that has the `v4` tag.
+  - `v4` - Include if the library supports `v4` of the Riot Games API. Note that [BottyMcBotFace](https://github.com/Querijn/BottyMcBotface) will only show a library that has the `v4` tag.
   - `rate-limiting` - Include if the library natively handles rate limiting headers from the Riot Games API
 
 #### RepoLink
@@ -58,7 +58,7 @@ lolfakejavalib.json
         "version": "1.2.0"
     },
     "tags": [
-        "v3",
+        "v4",
         "rate-limiting"
     ]
 }
