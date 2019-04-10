@@ -1,0 +1,21 @@
+{
+    "owner": "supergrecko",
+    "repo": "RiotQuest",
+    "description": "A full-on Framework for working with the Riot API. Featuring DTO's, Caching & Automatic Rate limiting",
+    "language": "PHP",
+    "links": [
+        {
+            "name": "Documentation",
+            "url": "https://github.com/supergrecko/RiotQuest/wiki"
+        }
+    ],
+    "metadata": {
+        "version": "1.0.0"
+    },
+    "tags": [
+        "v4",
+        "rate-limiting",
+        "cache",
+        "dto-support",
+    ]
+}
