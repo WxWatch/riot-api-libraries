@@ -7,6 +7,14 @@
         {
             "name": "Documentation",
             "url": "https://github.com/supergrecko/RiotQuest/wiki"
+        },
+        {
+            "name": "Packagist",
+            "url": "https://packagist.org/packages/supergrecko/riot-quest"
+        },
+        {
+            "name": "Repository",
+            "url": "https://github.com/supergrecko/RiotQuest"
         }
     ],
     "metadata": {
