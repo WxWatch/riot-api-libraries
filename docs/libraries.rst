@@ -4,7 +4,7 @@ Riot API Libraries
 C#
 ------------------------------------------
 
-`RiotSharp <https://github.com/BenFradet/RiotSharp>`_ (☆ 185)
+`RiotSharp <https://github.com/BenFradet/RiotSharp>`_ (☆ 184)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 RiotSharp's ASP.NET Core integration. **NOTE: NuGet releases are severely outdated, although library itself is maintained!**
@@ -14,7 +14,7 @@ Links
 
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting, asp-net-core
-| Last Updated: Mar 30, 2019
+| Last Updated: Apr 10, 2019
 
 -----------------
 
@@ -29,7 +29,7 @@ Links
 - `NuGet <https://www.nuget.org/packages/MingweiSamuel.Camille/>`_
 | License: `LGPL-3.0 <http://choosealicense.com/licenses/lgpl-3.0>`_
 | Tags: v3, v4, rate-limiting
-| Last Updated: Mar 12, 2019
+| Last Updated: Apr 8, 2019
 
 -----------------
 
@@ -50,7 +50,7 @@ Links
 
 -----------------
 
-`orianna <https://github.com/meraki-analytics/orianna>`_ (☆ 90)
+`orianna <https://github.com/meraki-analytics/orianna>`_ (☆ 91)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A highly configurable, usability-focused Riot API framework that takes care of all the details for you so you can focus on building your application
@@ -70,6 +70,22 @@ Links
 JavaScript
 ------------------------------------------
 
+`LeagueJS <https://github.com/Colorfulstan/LeagueJS>`_ (☆ 34)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A Javascript Wrapper for the League of Legends API 
+
+Links
+::::::::::::::::
+
+- `npm <https://www.npmjs.com/package/leaguejs>`_
+- `gitter <https://gitter.im/League-JS/>`_
+| License: `MIT <http://choosealicense.com/licenses/mit>`_
+| Tags: v4, caching, ddragon, rate-limiting
+| Last Updated: Apr 9, 2019
+
+-----------------
+
 `Pyke <https://github.com/systeme-cardinal/Pyke>`_ (☆ 12)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -81,7 +97,7 @@ Links
 - `npm <https://www.npmjs.com/package/pyke>`_
 | License: `GPL-3.0 <http://choosealicense.com/licenses/gpl-3.0>`_
 | Tags: v4, ddragon, communitydragon
-| Last Updated: Mar 24, 2019
+| Last Updated: Apr 5, 2019
 
 -----------------
 
@@ -150,7 +166,7 @@ Links
 - `Documentation <http://cassiopeia.readthedocs.org/en/latest/>`_
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting, caching
-| Last Updated: Mar 17, 2019
+| Last Updated: Apr 7, 2019
 
 -----------------
 
@@ -168,7 +184,7 @@ Links
 
 -----------------
 
-`Riot-Watcher <https://github.com/pseudonym117/Riot-Watcher>`_ (☆ 223)
+`Riot-Watcher <https://github.com/pseudonym117/Riot-Watcher>`_ (☆ 224)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Python wrapper for the Riot Games API for League of Legends
