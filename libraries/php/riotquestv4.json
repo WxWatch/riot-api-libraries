@@ -24,6 +24,6 @@
         "v4",
         "rate-limiting",
         "cache",
-        "dto-support",
+        "dto-support"
     ]
 }
