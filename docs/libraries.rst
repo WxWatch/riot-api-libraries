@@ -135,6 +135,23 @@ Links
 PHP
 ------------------------------------------
 
+`RiotQuest <https://github.com/supergrecko/RiotQuest>`_ (☆ 0)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A full-on Framework for working with the Riot API. Featuring DTO's, Caching & Automatic Rate limiting
+
+Links
+::::::::::::::::
+
+- `Documentation <https://github.com/supergrecko/RiotQuest/wiki>`_
+- `Packagist <https://packagist.org/packages/supergrecko/riot-quest>`_
+- `Repository <https://github.com/supergrecko/RiotQuest>`_
+| License: `MIT <http://choosealicense.com/licenses/mit>`_
+| Tags: v4, rate-limiting, cache, dto-support
+| Last Updated: Apr 11, 2019
+
+-----------------
+
 `riot-api <https://github.com/dolejska-daniel/riot-api>`_ (☆ 51)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
