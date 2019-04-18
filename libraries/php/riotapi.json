@@ -5,6 +5,10 @@
 	"language": "PHP",
 	"links": [
 		{
+			"name": "GitHub",
+			"url": "https://github.com/dolejska-daniel/riot-api"
+		},
+		{
 			"name": "GitHub Wiki",
 			"url": "https://github.com/dolejska-daniel/riot-api/wiki"
 		},
@@ -14,7 +18,7 @@
 		}
 	],
 	"metadata": {
-		"version": "v3.0.0-rc.1"
+		"version": "v3.0.10"
 	},
 	"tags": [
 		"v3",
