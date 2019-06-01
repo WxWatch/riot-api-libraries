@@ -1,19 +1,17 @@
 {
-        "owner": "taycaldwell",
-        "repo": "riot-api-java",
-        "language": "Java",
-        "links": [
-            {
-                "name": "JitPack",
-                "url": "https://jitpack.io/#rithms/riot-api-java/"
-            },
-            {
-                "name": "Website",
-                "url": "http://taycaldwell.com/riot-api-java/"
-            }
-        ],
-        "metadata": {},
-        "tags":[  
-            "v3"
-        ]
-    }
+	"owner": "taycaldwell",
+	"repo": "riot-api-java",
+	"description": "A simple to use Riot Games API wrapper for Java. This library makes it easy to gather and use League of Legends data in your apps.",
+	"language": "Java",
+	"links": [
+		{
+			"name": "JitPack",
+			"url": "https://jitpack.io/#rithms/riot-api-java/"
+		}
+	],
+	"metadata": {},
+	"tags":[
+		"v4",
+		"rate-limiting"
+	]
+}
