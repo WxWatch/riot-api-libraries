@@ -1,12 +1,12 @@
 {
     "owner": "supergrecko",
     "repo": "RiotQuest",
-    "description": "A full-on Framework for working with the Riot API. Featuring DTO's, Caching & Automatic Rate limiting",
+    "description": "RiotQuest is a modern PHP 7+ framework for the League of Legends API. Easy setup and installation. Laravel integrations out of the box.",
     "language": "PHP",
     "links": [
         {
             "name": "Documentation",
-            "url": "https://github.com/supergrecko/RiotQuest/wiki"
+            "url": "https://supergrecko.dev/docs/riot-quest"
         },
         {
             "name": "Packagist",
@@ -18,12 +18,13 @@
         }
     ],
     "metadata": {
-        "version": "1.0.0"
+        "version": "1.1.2"
     },
     "tags": [
         "v4",
         "rate-limiting",
         "cache",
-        "dto-support"
+        "dto-support",
+        "laravel-integration"
     ]
 }
