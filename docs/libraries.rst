@@ -33,6 +33,25 @@ Links
 
 -----------------
 
+Go
+------------------------------------------
+
+`golio <https://github.com/KnutZuidema/golio>`_ (☆ 1)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Go wrapper around the Riot Games API and the Data Dragon Service
+
+Links
+::::::::::::::::
+
+- `src <https://github.com/KnutZuidema/golio>`_
+- `docs <https://godoc.org/github.com/KnutZuidema/golio>`_
+| License: None
+| Tags: v4, rate-limiting
+| Last Updated: Jun 1, 2019
+
+-----------------
+
 Java
 ------------------------------------------
 
