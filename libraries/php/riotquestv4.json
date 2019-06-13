@@ -6,7 +6,7 @@
     "links": [
         {
             "name": "Documentation",
-            "url": "https://supergrecko.dev/docs/riot-quest"
+            "url": "https://riotquest.supergrecko.dev/"
         },
         {
             "name": "Packagist",
@@ -15,10 +15,14 @@
         {
             "name": "Repository",
             "url": "https://github.com/supergrecko/RiotQuest"
+        },
+        {
+            "name": "Issues",
+            "url": "https://github.com/supergrecko/RiotQuest/issues"
         }
     ],
     "metadata": {
-        "version": "1.1.2"
+        "version": "1.1.5"
     },
     "tags": [
         "v4",
