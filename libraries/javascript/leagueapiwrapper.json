@@ -1,0 +1,19 @@
+{
+    "owner": "LionelBergen",
+    "repo": "MundoScript",
+    "language": "JavaScript",
+    "links": [
+	{
+		"name": "npm",
+		"url": "https://www.npmjs.com/package/leagueapiwrapper"
+	},
+	{
+		"name": "Documentation",
+		"url": "https://github.com/LionelBergen/MundoScript"
+	}
+	],
+	"metadata": {},
+	"tags": [
+		"v4"
+	]
+}
