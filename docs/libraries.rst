@@ -193,9 +193,10 @@ RiotQuest is a modern PHP 7+ framework for the League of Legends API. Easy setup
 Links
 ::::::::::::::::
 
-- `Documentation <https://supergrecko.dev/docs/riot-quest>`_
+- `Documentation <https://riotquest.supergrecko.dev/>`_
 - `Packagist <https://packagist.org/packages/supergrecko/riot-quest>`_
 - `Repository <https://github.com/supergrecko/RiotQuest>`_
+- `Issues <https://github.com/supergrecko/RiotQuest/issues>`_
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting, cache, dto-support, laravel-integration
 | Last Updated: Jun 13, 2019
