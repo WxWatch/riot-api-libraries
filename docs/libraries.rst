@@ -15,11 +15,11 @@ Links
 - `NuGet <https://www.nuget.org/packages/MingweiSamuel.Camille/>`_
 | License: `LGPL-3.0 <http://choosealicense.com/licenses/lgpl-3.0>`_
 | Tags: v3, v4, rate-limiting
-| Last Updated: May 25, 2019
+| Last Updated: Jun 14, 2019
 
 -----------------
 
-`RiotSharp <https://github.com/BenFradet/RiotSharp>`_ (☆ 185)
+`RiotSharp <https://github.com/BenFradet/RiotSharp>`_ (☆ 186)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 RiotSharp's ASP.NET Core integration. **NOTE: NuGet releases are severely outdated, although library itself is maintained!**
@@ -46,9 +46,9 @@ Links
 
 - `src <https://github.com/KnutZuidema/golio>`_
 - `docs <https://godoc.org/github.com/KnutZuidema/golio>`_
-| License: None
+| License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting
-| Last Updated: Jun 1, 2019
+| Last Updated: Jun 12, 2019
 
 -----------------
 
@@ -65,7 +65,7 @@ Links
 
 | License: `Apache-2.0 <http://choosealicense.com/licenses/apache-2.0>`_
 | Tags: v4
-| Last Updated: May 28, 2019
+| Last Updated: Jun 7, 2019
 
 -----------------
 
@@ -82,7 +82,7 @@ Links
 - `JavaDoc <http://javadoc.io/doc/com.merakianalytics.orianna/orianna>`_
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting, caching
-| Last Updated: May 24, 2019
+| Last Updated: Jun 6, 2019
 
 -----------------
 
@@ -104,7 +104,54 @@ Links
 JavaScript
 ------------------------------------------
 
-`LeagueJS <https://github.com/Colorfulstan/LeagueJS>`_ (☆ 36)
+`kayn <https://github.com/cnguy/kayn>`_ (☆ 86)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+superagent-inspired Node.js lib (w/ **some** TypeScript support) for accessing Riot's League of Legend's API (discord: cnguy#3614)
+
+Links
+::::::::::::::::
+
+- `npm <https://www.npmjs.com/package/kayn>`_
+- `rate-limiter-credits <https://github.com/Colorfulstan/RiotRateLimiter-node>`_
+| License: `MIT <http://choosealicense.com/licenses/mit>`_
+| Tags: v4, rate-limiting, caching
+| Last Updated: Jun 13, 2019
+
+-----------------
+
+`Pyke <https://github.com/systeme-cardinal/Pyke>`_ (☆ 13)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Riot API, DDragon and CommunityDragon Library for NodeJS
+
+Links
+::::::::::::::::
+
+- `npm <https://www.npmjs.com/package/pyke>`_
+| License: `GPL-3.0 <http://choosealicense.com/licenses/gpl-3.0>`_
+| Tags: v4, ddragon, communitydragon
+| Last Updated: Jun 4, 2019
+
+-----------------
+
+`MundoScript <https://github.com/LionelBergen/MundoScript>`_ (☆ 1)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Node.js League/LoL/League Of Legends API wrapper, Focus is to be easy to use
+
+Links
+::::::::::::::::
+
+- `npm <https://www.npmjs.com/package/leagueapiwrapper>`_
+- `Documentation <https://github.com/LionelBergen/MundoScript>`_
+| License: None
+| Tags: v4
+| Last Updated: May 15, 2019
+
+-----------------
+
+`LeagueJS <https://github.com/Colorfulstan/LeagueJS>`_ (☆ 37)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A Javascript Wrapper for the League of Legends API 
@@ -117,37 +164,6 @@ Links
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, caching, ddragon, rate-limiting
 | Last Updated: Apr 18, 2019
-
------------------
-
-`Pyke <https://github.com/systeme-cardinal/Pyke>`_ (☆ 14)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Riot API, DDragon and CommunityDragon Library for NodeJS
-
-Links
-::::::::::::::::
-
-- `npm <https://www.npmjs.com/package/pyke>`_
-| License: `GPL-3.0 <http://choosealicense.com/licenses/gpl-3.0>`_
-| Tags: v4, ddragon, communitydragon
-| Last Updated: Apr 5, 2019
-
------------------
-
-`kayn <https://github.com/cnguy/kayn>`_ (☆ 85)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-superagent-inspired Node.js lib (w/ **some** TypeScript support) for accessing Riot's League of Legend's API (discord: cnguy#3614)
-
-Links
-::::::::::::::::
-
-- `npm <https://www.npmjs.com/package/kayn>`_
-- `rate-limiter-credits <https://github.com/Colorfulstan/RiotRateLimiter-node>`_
-| License: `MIT <http://choosealicense.com/licenses/mit>`_
-| Tags: v4, rate-limiting, caching
-| Last Updated: Mar 22, 2019
 
 -----------------
 
@@ -169,7 +185,7 @@ Links
 PHP
 ------------------------------------------
 
-`RiotQuest <https://github.com/supergrecko/RiotQuest>`_ (☆ 2)
+`RiotQuest <https://github.com/supergrecko/RiotQuest>`_ (☆ 3)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 RiotQuest is a modern PHP 7+ framework for the League of Legends API. Easy setup and installation. Laravel integrations out of the box.
@@ -182,7 +198,7 @@ Links
 - `Repository <https://github.com/supergrecko/RiotQuest>`_
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting, cache, dto-support, laravel-integration
-| Last Updated: Jun 1, 2019
+| Last Updated: Jun 13, 2019
 
 -----------------
 
@@ -219,7 +235,7 @@ Links
 
 -----------------
 
-`cassiopeia <https://github.com/meraki-analytics/cassiopeia>`_ (☆ 204)
+`cassiopeia <https://github.com/meraki-analytics/cassiopeia>`_ (☆ 208)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A highly configurable, usability-focused Riot API framework that takes care of all the details for you so you can focus on building your application
@@ -235,7 +251,7 @@ Links
 
 -----------------
 
-`Riot-Watcher <https://github.com/pseudonym117/Riot-Watcher>`_ (☆ 232)
+`Riot-Watcher <https://github.com/pseudonym117/Riot-Watcher>`_ (☆ 233)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Python wrapper for the Riot Games API for League of Legends
