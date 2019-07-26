@@ -16,7 +16,7 @@ Tournaments
 Match
 -----
 
-* Matches are kept for 3 years, timelines for 1 year.
+* Matches are kept for 2 years, timelines for 1 year.
 
 * The creation date timestamps in milliseconds (not seconds).
 
