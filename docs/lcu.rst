@@ -16,14 +16,6 @@ Pupix on Discord created an excellent app called Rift Explorer to explore the LC
 
 Vivi on Discord create a `website <http://lcu.vivide.re/>`_ that allows you to view the swagger for the LCU endpoints online.
 
-RIP Korea
----------
-
-Due to Korean laws, players logged into the KR server are not allowed to use applications that leverage the League Client APIs. This may change, but currently this is the policy.
-
-It is your job as a developer to enforce this policy, and you should use :code:`lol-platform-config` to determine if a player has logged into the KR server and disable features that leverage the League Client APIs.
-
-
 Tips
 ----
 
