@@ -1,7 +1,7 @@
 {
 	"owner": "dolejska-daniel",
 	"repo": "riot-api",
-	"description": "Riot League of Legends & DataDragon API wrapper for PHP7",
+	"description": "Riot League of Legends & DataDragon API wrappers for PHP7",
 	"language": "PHP",
 	"links": [
 		{
@@ -14,11 +14,12 @@
 		}
 	],
 	"metadata": {
-		"version": "v3.0.10"
+		"version": "v3.1.0"
 	},
 	"tags": [
 		"v3",
 		"v4",
-		"rate-limiting"
+		"rate-limiting",
+		"cli"
 	]
 }
