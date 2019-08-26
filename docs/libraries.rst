@@ -4,7 +4,7 @@ Riot API Libraries
 C#
 ------------------------------------------
 
-`Camille <https://github.com/MingweiSamuel/Camille>`_ (☆ 10)
+`Camille <https://github.com/MingweiSamuel/Camille>`_ (☆ 11)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Fully rate limited, automatic retrying, thread-safe. V4 Supported. Automatic nightly releases.
@@ -15,7 +15,7 @@ Links
 - `NuGet <https://www.nuget.org/packages/MingweiSamuel.Camille/>`_
 | License: `LGPL-3.0 <http://choosealicense.com/licenses/lgpl-3.0>`_
 | Tags: v3, v4, rate-limiting
-| Last Updated: Jul 15, 2019
+| Last Updated: Aug 24, 2019
 
 -----------------
 
@@ -55,7 +55,7 @@ Links
 Java
 ------------------------------------------
 
-`orianna <https://github.com/meraki-analytics/orianna>`_ (☆ 94)
+`orianna <https://github.com/meraki-analytics/orianna>`_ (☆ 97)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A highly configurable, usability-focused Riot API framework that takes care of all the details for you so you can focus on building your application
@@ -68,11 +68,11 @@ Links
 - `JavaDoc <http://javadoc.io/doc/com.merakianalytics.orianna/orianna>`_
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting, caching
-| Last Updated: Jul 26, 2019
+| Last Updated: Aug 26, 2019
 
 -----------------
 
-`L4J8 <https://github.com/stelar7/L4J8>`_ (☆ 16)
+`L4J8 <https://github.com/stelar7/L4J8>`_ (☆ 17)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The __**best**__ wrapper around. get it? wrapper, around? I'm funny ok?!
@@ -82,7 +82,7 @@ Links
 
 | License: `Apache-2.0 <http://choosealicense.com/licenses/apache-2.0>`_
 | Tags: v4
-| Last Updated: Jul 25, 2019
+| Last Updated: Aug 3, 2019
 
 -----------------
 
@@ -104,7 +104,23 @@ Links
 JavaScript
 ------------------------------------------
 
-`TeemoJS <https://github.com/MingweiSamuel/TeemoJS>`_ (☆ 8)
+`kayn <https://github.com/cnguy/kayn>`_ (☆ 88)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+superagent-inspired Node.js lib (w/ **some** TypeScript support) for accessing Riot's League of Legend's API (discord: cnguy#3614)
+
+Links
+::::::::::::::::
+
+- `npm <https://www.npmjs.com/package/kayn>`_
+- `rate-limiter-credits <https://github.com/Colorfulstan/RiotRateLimiter-node>`_
+| License: `MIT <http://choosealicense.com/licenses/mit>`_
+| Tags: v4, rate-limiting, caching
+| Last Updated: Aug 18, 2019
+
+-----------------
+
+`TeemoJS <https://github.com/MingweiSamuel/TeemoJS>`_ (☆ 10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Fast & tiny, automatic retries & smart rate limiting, V4 & champion.gg support, all in 300 lines.
@@ -115,7 +131,7 @@ Links
 - `npm <https://www.npmjs.com/package/teemojs>`_
 | License: `LGPL-3.0 <http://choosealicense.com/licenses/lgpl-3.0>`_
 | Tags: v3, v4, rate-limiting
-| Last Updated: Jul 15, 2019
+| Last Updated: Aug 5, 2019
 
 -----------------
 
@@ -131,22 +147,6 @@ Links
 | License: `GPL-3.0 <http://choosealicense.com/licenses/gpl-3.0>`_
 | Tags: v4, ddragon, communitydragon
 | Last Updated: Jul 2, 2019
-
------------------
-
-`kayn <https://github.com/cnguy/kayn>`_ (☆ 88)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-superagent-inspired Node.js lib (w/ **some** TypeScript support) for accessing Riot's League of Legend's API (discord: cnguy#3614)
-
-Links
-::::::::::::::::
-
-- `npm <https://www.npmjs.com/package/kayn>`_
-- `rate-limiter-credits <https://github.com/Colorfulstan/RiotRateLimiter-node>`_
-| License: `MIT <http://choosealicense.com/licenses/mit>`_
-| Tags: v4, rate-limiting, caching
-| Last Updated: Jun 15, 2019
 
 -----------------
 
@@ -166,7 +166,7 @@ Links
 
 -----------------
 
-`LeagueJS <https://github.com/Colorfulstan/LeagueJS>`_ (☆ 38)
+`LeagueJS <https://github.com/Colorfulstan/LeagueJS>`_ (☆ 39)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A Javascript Wrapper for the League of Legends API 
@@ -185,6 +185,22 @@ Links
 PHP
 ------------------------------------------
 
+`riot-api <https://github.com/dolejska-daniel/riot-api>`_ (☆ 55)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Riot League of Legends & DataDragon API wrappers for PHP7
+
+Links
+::::::::::::::::
+
+- `GitHub Wiki <https://github.com/dolejska-daniel/riot-api/wiki>`_
+- `Packagist <https://packagist.org/packages/dolejska-daniel/riot-api>`_
+| License: `GPL-3.0 <http://choosealicense.com/licenses/gpl-3.0>`_
+| Tags: v3, v4, rate-limiting, cli
+| Last Updated: Aug 26, 2019
+
+-----------------
+
 `RiotQuest <https://github.com/supergrecko/RiotQuest>`_ (☆ 4)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -199,30 +215,30 @@ Links
 - `Issues <https://github.com/supergrecko/RiotQuest/issues>`_
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting, cache, dto-support, laravel-integration
-| Last Updated: Jul 22, 2019
-
------------------
-
-`riot-api <https://github.com/dolejska-daniel/riot-api>`_ (☆ 55)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Riot League of Legends & DataDragon API wrapper for PHP7
-
-Links
-::::::::::::::::
-
-- `GitHub Wiki <https://github.com/dolejska-daniel/riot-api/wiki>`_
-- `Packagist <https://packagist.org/packages/dolejska-daniel/riot-api>`_
-| License: `GPL-3.0 <http://choosealicense.com/licenses/gpl-3.0>`_
-| Tags: v3, v4, rate-limiting
-| Last Updated: Jun 27, 2019
+| Last Updated: Aug 20, 2019
 
 -----------------
 
 Python
 ------------------------------------------
 
-`cassiopeia <https://github.com/meraki-analytics/cassiopeia>`_ (☆ 207)
+`Riot-Watcher <https://github.com/pseudonym117/Riot-Watcher>`_ (☆ 243)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Python wrapper for the Riot Games API for League of Legends
+
+Links
+::::::::::::::::
+
+- `Documentation <http://riot-watcher.readthedocs.io/en/latest/>`_
+- `PyPi <https://pypi.python.org/pypi/riotwatcher>`_
+| License: `MIT <http://choosealicense.com/licenses/mit>`_
+| Tags: v4, rate-limiting
+| Last Updated: Aug 24, 2019
+
+-----------------
+
+`cassiopeia <https://github.com/meraki-analytics/cassiopeia>`_ (☆ 211)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A highly configurable, usability-focused Riot API framework that takes care of all the details for you so you can focus on building your application
@@ -234,7 +250,7 @@ Links
 - `Documentation <http://cassiopeia.readthedocs.org/en/latest/>`_
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting, caching
-| Last Updated: Jul 26, 2019
+| Last Updated: Aug 9, 2019
 
 -----------------
 
@@ -252,26 +268,10 @@ Links
 
 -----------------
 
-`Riot-Watcher <https://github.com/pseudonym117/Riot-Watcher>`_ (☆ 238)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Python wrapper for the Riot Games API for League of Legends
-
-Links
-::::::::::::::::
-
-- `Documentation <http://riot-watcher.readthedocs.io/en/latest/>`_
-- `PyPi <https://pypi.python.org/pypi/riotwatcher>`_
-| License: `MIT <http://choosealicense.com/licenses/mit>`_
-| Tags: v4, rate-limiting
-| Last Updated: May 14, 2019
-
------------------
-
 Swift
 ------------------------------------------
 
-`LeagueAPI <https://github.com/Kelmatou/LeagueAPI>`_ (☆ 12)
+`LeagueAPI <https://github.com/Kelmatou/LeagueAPI>`_ (☆ 13)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Framework providing all League of Legends data, with cache, rate-limit handling with auto retry system. Compatible with Carthage and Cocoapod.
@@ -283,7 +283,7 @@ Links
 - `Documentation <https://github.com/Kelmatou/LeagueAPI/wiki>`_
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting
-| Last Updated: Jul 10, 2019
+| Last Updated: Jul 29, 2019
 
 -----------------
 
