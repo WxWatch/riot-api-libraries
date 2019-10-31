@@ -5,11 +5,11 @@
   "links": [
     {
       "name": "npm",
-      "url": "https://www.npmjs.com/package/kayn"
+      "url": "https://www.npmjs.com/package/api-riot-games"
     },
     {
       "name": "github",
-      "url": "https://github.com/Colorfulstan/RiotRateLimiter-node"
+      "url": "https://github.com/Sansossio/riot-games-api"
     },
     {
       "name": "examples",
