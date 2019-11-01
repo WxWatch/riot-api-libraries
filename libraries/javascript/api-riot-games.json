@@ -1,19 +1,19 @@
 {
   "owner": "Sansossio",
-  "repo": "api-riot-games",
+  "repo": "twisted",
   "language": "JavaScript",
   "links": [
     {
       "name": "npm",
-      "url": "https://www.npmjs.com/package/api-riot-games"
+      "url": "https://www.npmjs.com/package/twisted"
     },
     {
       "name": "github",
-      "url": "https://github.com/Sansossio/riot-games-api"
+      "url": "https://github.com/Sansossio/twisted"
     },
     {
       "name": "examples",
-      "url": "https://github.com/Sansossio/riot-games-api/tree/master/example"
+      "url": "https://github.com/Sansossio/twisted/tree/master/example"
     }
   ],
   "metadata": {
