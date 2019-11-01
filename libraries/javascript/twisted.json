@@ -1,0 +1,29 @@
+{
+  "owner": "Sansossio",
+  "repo": "twisted",
+  "language": "JavaScript",
+  "links": [
+    {
+      "name": "npm",
+      "url": "https://www.npmjs.com/package/twisted"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/Sansossio/twisted"
+    },
+    {
+      "name": "examples",
+      "url": "https://github.com/Sansossio/twisted/tree/master/example"
+    }
+  ],
+  "metadata": {
+    "version": "2.0.0"
+  },
+  "tags": [
+    "rate-limiting",
+    "v4",
+    "lol",
+    "tft",
+    "caching"
+  ]
+}
