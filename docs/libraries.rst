@@ -4,7 +4,7 @@ Riot API Libraries
 C#
 ------------------------------------------
 
-`Camille <https://github.com/MingweiSamuel/Camille>`_ (☆ 12)
+`Camille <https://github.com/MingweiSamuel/Camille>`_ (☆ 13)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Fully rate limited, automatic retrying, thread-safe. V4 Supported. Automatic nightly releases.
@@ -15,11 +15,11 @@ Links
 - `NuGet <https://www.nuget.org/packages/MingweiSamuel.Camille/>`_
 | License: `LGPL-3.0 <http://choosealicense.com/licenses/lgpl-3.0>`_
 | Tags: v3, v4, rate-limiting
-| Last Updated: Oct 31, 2019
+| Last Updated: Nov 5, 2019
 
 -----------------
 
-`RiotSharp <https://github.com/BenFradet/RiotSharp>`_ (☆ 191)
+`RiotSharp <https://github.com/BenFradet/RiotSharp>`_ (☆ 192)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 RiotSharp's ASP.NET Core integration. **NOTE: NuGet releases are severely outdated, although library itself is maintained!**
@@ -55,20 +55,6 @@ Links
 Java
 ------------------------------------------
 
-`L4J8 <https://github.com/stelar7/L4J8>`_ (☆ 22)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-The __**best**__ wrapper around. get it? wrapper, around? I'm funny ok?!
-
-Links
-::::::::::::::::
-
-| License: `Apache-2.0 <http://choosealicense.com/licenses/apache-2.0>`_
-| Tags: v4
-| Last Updated: Oct 31, 2019
-
------------------
-
 `orianna <https://github.com/meraki-analytics/orianna>`_ (☆ 102)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -82,7 +68,21 @@ Links
 - `JavaDoc <http://javadoc.io/doc/com.merakianalytics.orianna/orianna>`_
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting, caching
-| Last Updated: Oct 29, 2019
+| Last Updated: Nov 4, 2019
+
+-----------------
+
+`L4J8 <https://github.com/stelar7/L4J8>`_ (☆ 22)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The __**best**__ wrapper around. get it? wrapper, around? I'm funny ok?!
+
+Links
+::::::::::::::::
+
+| License: `Apache-2.0 <http://choosealicense.com/licenses/apache-2.0>`_
+| Tags: v4
+| Last Updated: Nov 4, 2019
 
 -----------------
 
@@ -104,7 +104,7 @@ Links
 JavaScript
 ------------------------------------------
 
-`twisted <https://github.com/Sansossio/twisted>`_ (☆ 2)
+`twisted <https://github.com/Sansossio/twisted>`_ (☆ 3)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Fetching riot games api data
@@ -117,7 +117,7 @@ Links
 - `examples <https://github.com/Sansossio/twisted/tree/master/example>`_
 | License: None
 | Tags: rate-limiting, v4, lol, tft, caching
-| Last Updated: Nov 1, 2019
+| Last Updated: Nov 4, 2019
 
 -----------------
 
@@ -152,7 +152,7 @@ Links
 
 -----------------
 
-`Pyke <https://github.com/systeme-cardinal/Pyke>`_ (☆ 19)
+`Pyke <https://github.com/systeme-cardinal/Pyke>`_ (☆ 20)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Riot API, DDragon and CommunityDragon Library for NodeJS
@@ -214,7 +214,7 @@ Links
 - `Packagist <https://packagist.org/packages/dolejska-daniel/riot-api>`_
 | License: `GPL-3.0 <http://choosealicense.com/licenses/gpl-3.0>`_
 | Tags: v3, v4, rate-limiting, cli
-| Last Updated: Oct 27, 2019
+| Last Updated: Nov 1, 2019
 
 -----------------
 
@@ -239,7 +239,7 @@ Links
 Python
 ------------------------------------------
 
-`cassiopeia <https://github.com/meraki-analytics/cassiopeia>`_ (☆ 218)
+`cassiopeia <https://github.com/meraki-analytics/cassiopeia>`_ (☆ 219)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A highly configurable, usability-focused Riot API framework that takes care of all the details for you so you can focus on building your application
@@ -251,11 +251,11 @@ Links
 - `Documentation <http://cassiopeia.readthedocs.org/en/latest/>`_
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting, caching
-| Last Updated: Oct 30, 2019
+| Last Updated: Nov 5, 2019
 
 -----------------
 
-`Riot-Watcher <https://github.com/pseudonym117/Riot-Watcher>`_ (☆ 254)
+`Riot-Watcher <https://github.com/pseudonym117/Riot-Watcher>`_ (☆ 255)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Python wrapper for the Riot Games API for League of Legends
@@ -285,10 +285,29 @@ Links
 
 -----------------
 
+Rust
+------------------------------------------
+
+`Riven <https://github.com/MingweiSamuel/Riven>`_ (☆ 0)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Tried and tested Riot API design, in Rust
+
+Links
+::::::::::::::::
+
+- `Docs.rs <https://docs.rs/riven/>`_
+- `Crates.io <https://crates.io/crates/riven>`_
+| License: `MIT <http://choosealicense.com/licenses/mit>`_
+| Tags: v3, v4, rate-limiting, tft
+| Last Updated: Nov 5, 2019
+
+-----------------
+
 Swift
 ------------------------------------------
 
-`LeagueAPI <https://github.com/Kelmatou/LeagueAPI>`_ (☆ 17)
+`LeagueAPI <https://github.com/Kelmatou/LeagueAPI>`_ (☆ 19)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Framework providing all League of Legends data, with cache, rate-limit handling with auto retry system. Compatible with Carthage and Cocoapod.
@@ -321,7 +340,7 @@ Links
 TypeScript
 ------------------------------------------
 
-`twisted <https://github.com/Sansossio/twisted>`_ (☆ 2)
+`twisted <https://github.com/Sansossio/twisted>`_ (☆ 3)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Fetching riot games api data
@@ -334,7 +353,7 @@ Links
 - `examples <https://github.com/Sansossio/twisted/tree/master/example>`_
 | License: None
 | Tags: rate-limiting, v4, lol, tft, caching
-| Last Updated: Nov 1, 2019
+| Last Updated: Nov 4, 2019
 
 -----------------
 
