@@ -1,0 +1,34 @@
+{
+    "owner": "MingweiSamuel",
+    "repo": "Riven",
+    "language": "Rust",
+    "description": "Tried and tested Riot API design, in Rust",
+    "links": [
+        {
+            "name": "Docs.rs",
+            "url": "https://docs.rs/riven/"
+        },
+        {
+            "name": "Crates.io",
+            "url": "https://crates.io/crates/riven"
+        }
+    ],
+    "metadata": {
+        "v3": true,
+        "v4": true,
+        "async": true,
+        "rate-limiter": {
+          "header-driven": true,
+          "method-rate-limiting": true,
+          "per-region": true,
+          "per-endpoint": true
+        },
+        "tft": true
+    },
+    "tags": [
+        "v3",
+        "v4",
+        "rate-limiting",
+        "tft"
+    ]
+}
