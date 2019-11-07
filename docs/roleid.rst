@@ -48,7 +48,7 @@ Alternatively, we can use play rate data (e.g. Lux plays mid 30% of the time and
 Use timeline data
 .................
 
-Finally, we can use most-match data in the timeline objects to identify the position on the map of the champions throughout the game. We can also look at items, runes, summoner spells, etc. to help narrow down what position the champion likely played in. This is easiest implemented using a machine learning approach. Training data can be found here: https://github.com/Canisback/roleML/blob/master/verification_set.csv. An implementation of an SVM (a machine learning model) to identify lanes and roles can be found here: https://github.com/meraki-analytics/role-identification/blob/timeline/timeline-roleidentification/finished_timeline_roleID.ipynb that you can use as an example for your own model. A decision tree is another good machine learning algorithm for this task.
+Finally, we can use most-match data in the timeline objects to identify the position on the map of the champions throughout the game. We can also look at items, runes, summoner spells, etc. to help narrow down what position the champion likely played in. This is easiest implemented using a machine learning approach. Training data can be found here: https://github.com/Canisback/roleML/blob/master/data/verification_results.csv. An implementation of an SVM (a machine learning model) to identify lanes and roles can be found here: https://github.com/meraki-analytics/role-identification/blob/timeline/timeline-roleidentification/finished_timeline_roleID.ipynb that you can use as an example for your own model. A decision tree is another good machine learning algorithm for this task.
 
 Other useful data
 .................
