@@ -17,6 +17,7 @@
   },
   "tags": [
     "v4",
-    "rate-limiting"
+    "rate-limiting",
+    "caching"
   ]
 }
