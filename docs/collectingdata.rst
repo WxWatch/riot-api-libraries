@@ -14,6 +14,7 @@ The best way to collect a large set of matches is not straightforward. Typically
 
 4. Success! You have a ton of match IDs, from there, you can fetch their timelines or parse the matches however you want.
 
+Alternatively, Canisback on the Discord currently `hosts <http://canisback.com/matchId/>`_ a list of matches IDs that you can use to pull summoners from the `matches/{matchId}` endpoints. These lists are provided for free to the community for use, and may go down or stop being updated at any time.
 
 Summoner Data
 -------------
