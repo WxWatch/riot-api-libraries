@@ -20,7 +20,7 @@ Match
 
 * The creation date timestamps in milliseconds (not seconds).
 
-* The pick order of participants is 1-5-2-6-3-7-4-8-5-9.
+* The pick order of participants is 0-5-1-6-2-7-3-8-4-9.
 
 * The :code:`totalGame` fields is incorrect in most cases. It's best practice to just ignore it.
 
