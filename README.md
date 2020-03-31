@@ -9,7 +9,7 @@
 5. [Future Work](#future-improvementssuggestions)
 
 ## Introduction
-This repository is the home of the configuration files that power the `!libs` command for BottyMcBotFace on the Riot Games API Developer Community (https://discord.gg/riotapi)
+This repository is the home of the configuration files that power the `!libs` command for BottyMcBotFace on the Riot Games API Developer Community (https://discord.gg/riotgamesdevrel)
 
 The aim of this repository is to provide a semi-automated, centralized way for 3rd Party Library Creators to manage the exposure of their libraries to other 3rd Party Developers.
 
