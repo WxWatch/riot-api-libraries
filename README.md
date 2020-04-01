@@ -9,7 +9,7 @@
 5. [Future Work](#future-improvementssuggestions)
 
 ## Introduction
-This repository is the home of the configuration files that power the `!libs` command for BottyMcBotFace on the Riot Games API Developer Community (https://discord.gg/riotapi)
+This repository is the home of the configuration files that power the `!libs` command for BottyMcBotFace on the Riot Games API Developer Community (https://discord.gg/riotgamesdevrel)
 
 The aim of this repository is to provide a semi-automated, centralized way for 3rd Party Library Creators to manage the exposure of their libraries to other 3rd Party Developers.
 
@@ -71,7 +71,7 @@ Awesome! Simply create a Pull Request that adds a file with your library's confi
 It's simple to fix! Simply create a Pull Request that updates the configuration file for your library. Once we verify that everything is correct, we'll merge it in and you're all set!
 
 ## Troubleshooting
-For any specific issues / feature requests, you can create a Github Issue or reach out to WxWatch on the [Riot API Community Discord](https://discord.gg/riotapi)
+For any specific issues / feature requests, you can create a Github Issue or reach out to WxWatch on the [Riot API Community Discord](https://discord.gg/riotgamesdevrel)
 
 ## Future Improvements/Suggestions
 - ~~With the upcoming deprecation of `pre-v3` APIs, a way for libraries to be marked as `supporting v3 `.~~ Done!
