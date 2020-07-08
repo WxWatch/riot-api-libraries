@@ -1,0 +1,19 @@
+{
+  "owner": "paaksing",
+  "repo": "django-cassiopeia",
+  "description": "An integration of cassiopeia to the popular python web framework Django, this integration aimed to fix most issues/conflicts that happens when Cassiopeia is paired with a Python web framework (e.g. Django, Flask). In this integration, you will have the ability to use any production tested cache backends that Django's cache framework supports, plus others well adapted settings.",
+  "language": "Python",
+  "links": [{
+    "name": "PyPi",
+    "url": "https://pypi.org/project/django-cassiopeia/"
+  }, {
+    "name": "Documentation",
+    "url": "https://django-cassiopeia.readthedocs.io/en/latest/"
+  }],
+  "metadata": {},
+  "tags": [
+    "v4",
+    "rate-limiting",
+    "production-caching"
+  ]
+}
