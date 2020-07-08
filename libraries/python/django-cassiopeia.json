@@ -1,7 +1,7 @@
 {
   "owner": "paaksing",
   "repo": "django-cassiopeia",
-  "description": "2020 Integration of the highly configurable framework Cassiopeia to the popular python web framework Django, includes supports for any production cache backend that Django supports.",
+  "description": "2020 Integration of Riot API framework Cassiopeia to the popular Python web framework Django, aimed to fix most issues/conflicts that happens when Cassiopeia is paired with a Python web framework (e.g. Django, Flask). Have the ability to use any production tested cache backends that Django's cache framework supports (Memcached, Redis, Filebased, Locmem, Database/SQL, etc), plus others well adapted settings.",
   "language": "Python",
   "links": [{
     "name": "PyPi",
