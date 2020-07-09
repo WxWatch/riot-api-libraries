@@ -223,7 +223,7 @@ Links
 Python
 ------------------------------------------
 
-`cassiopeia <https://github.com/meraki-analytics/cassiopeia>`_ (☆ 280)
+`cassiopeia <https://github.com/meraki-analytics/cassiopeia>`_ (☆ 281)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A highly configurable, usability-focused Riot API framework that takes care of all the details for you so you can focus on building your application
@@ -236,6 +236,22 @@ Links
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting, caching
 | Last Updated: Jul 8, 2020
+
+-----------------
+
+`django-cassiopeia <https://github.com/paaksing/django-cassiopeia>`_ (☆ 1)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2020 Integration of Riot API framework Cassiopeia to the popular Python web framework Django, aimed to fix most issues/conflicts that happens when Cassiopeia is paired with a Python web framework (e.g. Django, Flask). Have the ability to use any production tested cache backends that Django's cache framework supports (Memcached, Redis, Filebased, Locmem, Database/SQL, etc), plus others well adapted settings.
+
+Links
+::::::::::::::::
+
+- `PyPi <https://pypi.org/project/django-cassiopeia/>`_
+- `Documentation <https://django-cassiopeia.readthedocs.io/en/latest/>`_
+| License: `NOASSERTION <http://choosealicense.com/licenses/other>`_
+| Tags: v4, rate-limiting, production-caching
+| Last Updated: Jul 7, 2020
 
 -----------------
 
