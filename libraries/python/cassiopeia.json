@@ -1,7 +1,7 @@
 {
   "owner": "meraki-analytics",
   "repo": "cassiopeia",
-  "description": "A highly configurable, usability-focused Riot API framework that takes care of all the details for you so you can focus on building your application",
+  "description": "Cassiopeia takes care of all the details for you so you can focus on building your application",
   "language": "Python",
   "links": [{
     "name": "PyPi",
