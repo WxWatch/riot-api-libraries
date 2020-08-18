@@ -14,9 +14,6 @@ You can download the entire set of data and images by downloading this tarball (
 
 You can also access individual files by going to specific URLs, for example: http://ddragon.leagueoflegends.com/cdn/9.3.1/data/en_US/champion.json.
 
-To see what files are in ddragon, PykeGithub on Discord has created a website that lets you `explore <https://ddragonexplorer.com/cdn/>`_ ddragon. Do not download files from ddragonexplorer.com. Instead, replace :code:`ddragonexplorer.com` with :code:`ddragon.leagueoflegends.com` and download the file directly from Riot's servers.
-
-
 Caching
 -------
 
