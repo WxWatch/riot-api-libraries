@@ -1,0 +1,23 @@
+{
+  "owner": "paaksing",
+  "repo": "pyot",
+  "description": "2020 High level Python Framework for the Riot Games API, CDragon and MerakiCDN. Based on AsyncIO with support to Django and Synchronous adaptation. Details in documentations",
+  "language": "Python",
+  "links": [{
+    "name": "PyPi",
+    "url": "https://pypi.org/project/pyot/"
+  }, {
+    "name": "Documentation",
+    "url": "https://paaksing.github.io/Pyot/"
+  }],
+  "metadata": {},
+  "tags": [
+    "v4",
+    "rate-limiting",
+    "asyncio",
+    "django",
+    "lol",
+    "tft",
+    "val",
+  ]
+}
