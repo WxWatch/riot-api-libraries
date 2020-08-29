@@ -1,6 +1,6 @@
 {
   "owner": "paaksing",
-  "repo": "pyot",
+  "repo": "Pyot",
   "description": "2020 High level Python Framework for the Riot Games API, CDragon and MerakiCDN. Based on AsyncIO with support to Django and Synchronous adaptation. Details in documentations",
   "language": "Python",
   "links": [{
