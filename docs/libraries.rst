@@ -223,7 +223,7 @@ Links
 Python
 ------------------------------------------
 
-`Pyot <https://github.com/paaksing/Pyot>`_ (☆ 0)
+`Pyot <https://github.com/paaksing/Pyot>`_ (☆ 3)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 2020 High level Python Framework for the Riot Games API, CDragon and MerakiCDN. Based on AsyncIO with support to Django and Synchronous adaptation. Details in documentations
@@ -274,7 +274,7 @@ Links
 `cassiopeia <https://github.com/meraki-analytics/cassiopeia>`_ (☆ 299)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A highly configurable, usability-focused Riot API framework that takes care of all the details for you so you can focus on building your application
+Cassiopeia takes care of all the details for you so you can focus on building your application
 
 Links
 ::::::::::::::::
