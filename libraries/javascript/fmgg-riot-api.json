@@ -21,7 +21,7 @@
         },
         "cacher": {
             "in-memory": true,
-            "redis": true,
+            "redis": true
         }
     },
     "tags": [
