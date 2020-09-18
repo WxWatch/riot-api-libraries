@@ -17,10 +17,10 @@
           "per-region": true,
           "per-endpoint": true,
           "spread": true
-        },
+        }
     },
     "tags": [
         "v4",
-        "rate-limiting",
+        "rate-limiting"
     ]
 }
