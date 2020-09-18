@@ -1,0 +1,26 @@
+{
+    "owner": "fightmegg",
+    "repo": "riot-rate-limiter",
+    "language": "JavaScript",
+    "description": "Fully featured Rate Limiter for Riot Games API",
+    "links": [
+        {
+            "name": "npm",
+            "url": "https://www.npmjs.com/package/@fightmegg/riot-rate-limiter"
+        }
+    ],
+    "metadata": {
+        "async": true,
+        "rate-limiter": {
+          "header-driven": true,
+          "method-rate-limiting": true,
+          "per-region": true,
+          "per-endpoint": true,
+          "spread": true
+        },
+    },
+    "tags": [
+        "v4",
+        "rate-limiting",
+    ]
+}
