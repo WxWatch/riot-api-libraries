@@ -1,0 +1,32 @@
+{
+    "owner": "fightmegg",
+    "repo": "riot-api",
+    "language": "JavaScript",
+    "description": "Fully featured Riot API client",
+    "links": [
+        {
+            "name": "npm",
+            "url": "https://www.npmjs.com/package/@fightmegg/riot-api"
+        }
+    ],
+    "metadata": {
+        "v4": true,
+        "async": true,
+        "rate-limiter": {
+          "header-driven": true,
+          "method-rate-limiting": true,
+          "per-region": true,
+          "per-endpoint": true,
+          "spread": true
+        },
+        "cacher": {
+            "in-memory": true,
+            "redis": true
+        }
+    },
+    "tags": [
+        "v4",
+        "rate-limiting",
+        "caching"
+    ]
+}
