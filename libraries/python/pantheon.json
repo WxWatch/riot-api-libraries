@@ -1,8 +1,14 @@
 {
     "owner": "Canisback",
     "repo": "pantheon",
+    "description": "Asyncio based Python wrapper for Riot API, supporting LoL, tournaments, TFT, LoR and Valorant endpoints",
     "language": "Python",
-    "links": [],
+    "links": [
+        {
+            "name": "PyPi",
+            "url": "https://pypi.org/project/pantheon/"
+        }
+    ],
     "metadata": {},
     "tags": [
         "v4",
