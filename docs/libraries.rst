@@ -19,7 +19,7 @@ Links
 
 -----------------
 
-`RiotSharp <https://github.com/BenFradet/RiotSharp>`_ (☆ 223)
+`RiotSharp <https://github.com/BenFradet/RiotSharp>`_ (☆ 224)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 RiotSharp's ASP.NET Core integration. **NOTE: NuGet releases are severely outdated, although library itself is maintained!**
@@ -55,7 +55,7 @@ Links
 Java
 ------------------------------------------
 
-`R4J <https://github.com/stelar7/R4J>`_ (☆ 34)
+`R4J <https://github.com/stelar7/R4J>`_ (☆ 35)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A Java library containing the API for every Riot game
@@ -69,7 +69,7 @@ Links
 
 -----------------
 
-`orianna <https://github.com/meraki-analytics/orianna>`_ (☆ 123)
+`orianna <https://github.com/meraki-analytics/orianna>`_ (☆ 124)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A highly configurable, usability-focused Riot API framework that takes care of all the details for you so you can focus on building your application
@@ -89,6 +89,23 @@ Links
 JavaScript
 ------------------------------------------
 
+`twisted <https://github.com/Sansossio/twisted>`_ (☆ 20)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Fetching riot games api data
+
+Links
+::::::::::::::::
+
+- `npm <https://www.npmjs.com/package/twisted>`_
+- `github <https://github.com/Sansossio/twisted>`_
+- `examples <https://github.com/Sansossio/twisted/tree/master/example>`_
+| License: None
+| Tags: rate-limiting, v4, lol, tft, caching
+| Last Updated: Sep 21, 2020
+
+-----------------
+
 `riot-api <https://github.com/fightmegg/riot-api>`_ (☆ 0)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -100,7 +117,7 @@ Links
 - `npm <https://www.npmjs.com/package/@fightmegg/riot-api>`_
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting, caching
-| Last Updated: Sep 18, 2020
+| Last Updated: Sep 21, 2020
 
 -----------------
 
@@ -115,23 +132,6 @@ Links
 - `npm <https://www.npmjs.com/package/teemojs>`_
 | License: `LGPL-3.0 <http://choosealicense.com/licenses/lgpl-3.0>`_
 | Tags: v3, v4, rate-limiting
-| Last Updated: Sep 17, 2020
-
------------------
-
-`twisted <https://github.com/Sansossio/twisted>`_ (☆ 20)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Fetching riot games api data
-
-Links
-::::::::::::::::
-
-- `npm <https://www.npmjs.com/package/twisted>`_
-- `github <https://github.com/Sansossio/twisted>`_
-- `examples <https://github.com/Sansossio/twisted/tree/master/example>`_
-| License: None
-| Tags: rate-limiting, v4, lol, tft, caching
 | Last Updated: Sep 17, 2020
 
 -----------------
@@ -253,7 +253,7 @@ Links
 
 -----------------
 
-`Pyot <https://github.com/paaksing/Pyot>`_ (☆ 5)
+`Pyot <https://github.com/paaksing/Pyot>`_ (☆ 6)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 2020 High level Python Framework for the Riot Games API, CDragon and MerakiCDN. Based on AsyncIO with support to Django and Synchronous adaptation. Details in documentations
@@ -269,7 +269,7 @@ Links
 
 -----------------
 
-`Riot-Watcher <https://github.com/pseudonym117/Riot-Watcher>`_ (☆ 332)
+`Riot-Watcher <https://github.com/pseudonym117/Riot-Watcher>`_ (☆ 333)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Python wrapper for the Riot Games API for League of Legends
@@ -301,7 +301,7 @@ Links
 
 -----------------
 
-`cassiopeia <https://github.com/meraki-analytics/cassiopeia>`_ (☆ 304)
+`cassiopeia <https://github.com/meraki-analytics/cassiopeia>`_ (☆ 305)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Cassiopeia takes care of all the details for you so you can focus on building your application
@@ -385,7 +385,7 @@ Links
 - `examples <https://github.com/Sansossio/twisted/tree/master/example>`_
 | License: None
 | Tags: rate-limiting, v4, lol, tft, caching
-| Last Updated: Sep 17, 2020
+| Last Updated: Sep 21, 2020
 
 -----------------
 
