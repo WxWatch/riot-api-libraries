@@ -1,7 +1,7 @@
 {
   "owner": "paaksing",
   "repo": "django-cassiopeia",
-  "description": "Django Integration of the League of Legends API framework Cassiopeia. Providing better tools for your Django/DRF based app and fixing issues related to co-ocurrency of cassiopeia and Django. Details in documentations",
+  "description": "Django Integration of Cassiopeia. Providing tools for your Django/DRF based app. Details in documentations",
   "language": "Python",
   "links": [{
     "name": "PyPi",
