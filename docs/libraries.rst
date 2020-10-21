@@ -4,20 +4,6 @@ Riot API Libraries
 C#
 ------------------------------------------
 
-`RiotSharp <https://github.com/BenFradet/RiotSharp>`_ (☆ 226)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-RiotSharp's ASP.NET Core integration. **NOTE: NuGet releases are severely outdated, although library itself is maintained!**
-
-Links
-::::::::::::::::
-
-| License: `MIT <http://choosealicense.com/licenses/mit>`_
-| Tags: v4, rate-limiting, asp-net-core
-| Last Updated: Sep 29, 2020
-
------------------
-
 `Camille <https://github.com/MingweiSamuel/Camille>`_ (☆ 32)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -29,7 +15,21 @@ Links
 - `NuGet <https://www.nuget.org/packages/MingweiSamuel.Camille/>`_
 | License: `NOASSERTION <http://choosealicense.com/licenses/other>`_
 | Tags: v3, v4, rate-limiting
-| Last Updated: Sep 19, 2020
+| Last Updated: Oct 8, 2020
+
+-----------------
+
+`RiotSharp <https://github.com/BenFradet/RiotSharp>`_ (☆ 229)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+RiotSharp's ASP.NET Core integration. **NOTE: NuGet releases are severely outdated, although library itself is maintained!**
+
+Links
+::::::::::::::::
+
+| License: `MIT <http://choosealicense.com/licenses/mit>`_
+| Tags: v4, rate-limiting, asp-net-core
+| Last Updated: Oct 5, 2020
 
 -----------------
 
@@ -65,7 +65,7 @@ Links
 
 | License: `Apache-2.0 <http://choosealicense.com/licenses/apache-2.0>`_
 | Tags: v4
-| Last Updated: Oct 2, 2020
+| Last Updated: Oct 17, 2020
 
 -----------------
 
@@ -82,14 +82,14 @@ Links
 - `JavaDoc <http://javadoc.io/doc/com.merakianalytics.orianna/orianna>`_
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting, caching
-| Last Updated: Jul 26, 2020
+| Last Updated: Oct 13, 2020
 
 -----------------
 
 JavaScript
 ------------------------------------------
 
-`riot-api <https://github.com/fightmegg/riot-api>`_ (☆ 0)
+`riot-api <https://github.com/fightmegg/riot-api>`_ (☆ 1)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Fully featured Riot API client
@@ -100,11 +100,27 @@ Links
 - `npm <https://www.npmjs.com/package/@fightmegg/riot-api>`_
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting, caching
-| Last Updated: Sep 30, 2020
+| Last Updated: Oct 21, 2020
 
 -----------------
 
-`twisted <https://github.com/Sansossio/twisted>`_ (☆ 21)
+`MundoScript <https://github.com/LionelBergen/MundoScript>`_ (☆ 17)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Node.js League/LoL/League Of Legends API wrapper, Focus is to be easy to use
+
+Links
+::::::::::::::::
+
+- `npm <https://www.npmjs.com/package/leagueapiwrapper>`_
+- `Documentation <https://github.com/LionelBergen/MundoScript>`_
+| License: None
+| Tags: v4
+| Last Updated: Oct 3, 2020
+
+-----------------
+
+`twisted <https://github.com/Sansossio/twisted>`_ (☆ 23)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Fetching riot games api data
@@ -121,7 +137,7 @@ Links
 
 -----------------
 
-`TeemoJS <https://github.com/MingweiSamuel/TeemoJS>`_ (☆ 25)
+`TeemoJS <https://github.com/MingweiSamuel/TeemoJS>`_ (☆ 27)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Fast & tiny, automatic retries & smart rate limiting, V4 & champion.gg support, all in 300 lines.
@@ -149,22 +165,6 @@ Links
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting, caching
 | Last Updated: Sep 4, 2020
-
------------------
-
-`MundoScript <https://github.com/LionelBergen/MundoScript>`_ (☆ 17)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Node.js League/LoL/League Of Legends API wrapper, Focus is to be easy to use
-
-Links
-::::::::::::::::
-
-- `npm <https://www.npmjs.com/package/leagueapiwrapper>`_
-- `Documentation <https://github.com/LionelBergen/MundoScript>`_
-| License: None
-| Tags: v4
-| Last Updated: Aug 2, 2020
 
 -----------------
 
@@ -231,14 +231,14 @@ Links
 - `Packagist <https://packagist.org/packages/dolejska-daniel/riot-api>`_
 | License: `GPL-3.0 <http://choosealicense.com/licenses/gpl-3.0>`_
 | Tags: v3, v4, rate-limiting, cli
-| Last Updated: Sep 11, 2020
+| Last Updated: Oct 19, 2020
 
 -----------------
 
 Python
 ------------------------------------------
 
-`cassiopeia <https://github.com/meraki-analytics/cassiopeia>`_ (☆ 313)
+`cassiopeia <https://github.com/meraki-analytics/cassiopeia>`_ (☆ 317)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Cassiopeia takes care of all the details for you so you can focus on building your application
@@ -250,7 +250,38 @@ Links
 - `Documentation <http://cassiopeia.readthedocs.org/en/latest/>`_
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting, caching
-| Last Updated: Oct 1, 2020
+| Last Updated: Oct 20, 2020
+
+-----------------
+
+`Riot-Watcher <https://github.com/pseudonym117/Riot-Watcher>`_ (☆ 342)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Python wrapper for the Riot Games API for League of Legends
+
+Links
+::::::::::::::::
+
+- `Documentation <http://riot-watcher.readthedocs.io/en/latest/>`_
+- `PyPi <https://pypi.python.org/pypi/riotwatcher>`_
+| License: `MIT <http://choosealicense.com/licenses/mit>`_
+| Tags: v4, rate-limiting
+| Last Updated: Oct 16, 2020
+
+-----------------
+
+`pantheon <https://github.com/Canisback/pantheon>`_ (☆ 24)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Asyncio based Python wrapper for Riot API, supporting LoL, tournaments, TFT, LoR and Valorant endpoints
+
+Links
+::::::::::::::::
+
+- `PyPi <https://pypi.org/project/pantheon/>`_
+| License: `MIT <http://choosealicense.com/licenses/mit>`_
+| Tags: v4, rate-limiting
+| Last Updated: Oct 2, 2020
 
 -----------------
 
@@ -270,21 +301,6 @@ Links
 
 -----------------
 
-`pantheon <https://github.com/Canisback/pantheon>`_ (☆ 23)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Asyncio based Python wrapper for Riot API, supporting LoL, tournaments, TFT, LoR and Valorant endpoints
-
-Links
-::::::::::::::::
-
-- `PyPi <https://pypi.org/project/pantheon/>`_
-| License: `MIT <http://choosealicense.com/licenses/mit>`_
-| Tags: v4, rate-limiting
-| Last Updated: Sep 29, 2020
-
------------------
-
 `Pyot <https://github.com/paaksing/Pyot>`_ (☆ 7)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -297,22 +313,6 @@ Links
 - `Documentation <https://paaksing.github.io/Pyot/>`_
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v4, rate-limiting, asyncio, django, lol, tft, val
-| Last Updated: Sep 25, 2020
-
------------------
-
-`Riot-Watcher <https://github.com/pseudonym117/Riot-Watcher>`_ (☆ 338)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Python wrapper for the Riot Games API for League of Legends
-
-Links
-::::::::::::::::
-
-- `Documentation <http://riot-watcher.readthedocs.io/en/latest/>`_
-- `PyPi <https://pypi.python.org/pypi/riotwatcher>`_
-| License: `MIT <http://choosealicense.com/licenses/mit>`_
-| Tags: v4, rate-limiting
 | Last Updated: Sep 25, 2020
 
 -----------------
@@ -339,7 +339,7 @@ Links
 Swift
 ------------------------------------------
 
-`LeagueAPI <https://github.com/Kelmatou/LeagueAPI>`_ (☆ 24)
+`LeagueAPI <https://github.com/Kelmatou/LeagueAPI>`_ (☆ 26)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Framework providing all League of Legends data, with cache, rate-limit handling with auto retry system. Compatible with Carthage and Cocoapod.
@@ -372,7 +372,7 @@ Links
 TypeScript
 ------------------------------------------
 
-`twisted <https://github.com/Sansossio/twisted>`_ (☆ 21)
+`twisted <https://github.com/Sansossio/twisted>`_ (☆ 23)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Fetching riot games api data
