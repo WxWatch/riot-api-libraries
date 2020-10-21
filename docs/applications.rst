@@ -17,4 +17,4 @@ Register your project to apply for a Production API Key with access to the Stand
 Personal App
 ............
 
-Register your project to apply for a Personal API Key without the verification process. This is only for the Standard API's, not Tournaments. Personal Keys require a detailed description ofthe project.
+Register your project to apply for a Personal API Key without the verification process. This is only for the Standard API's, not Tournaments. Personal Keys require a detailed description of the project.
