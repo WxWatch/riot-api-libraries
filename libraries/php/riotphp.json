@@ -1,0 +1,21 @@
+{
+  "owner": "simivar",
+  "repo": "riot-php",
+  "description": "PSR-17, PSR-18 and Dependency-Injection based PHP wrapper around Riot API",
+  "language": "PHP",
+  "links": [
+    {
+      "name": "Packagist",
+      "url": "https://packagist.org/packages/simivar/riot-php"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/simivar/riot-php"
+    }
+  ],
+  "metadata":{
+    "v3": true,
+    "v4": true
+  },
+  "tags": ["v3", "v4", "psr-17", "psr-18"]
+}
