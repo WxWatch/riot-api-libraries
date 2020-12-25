@@ -1,0 +1,21 @@
+{
+    "owner": "LionelBergen",
+    "repo": "Zed_script",
+    "language": "Rust",
+    "description": "Easy to use, simple, basic, tested Riot API wrapper written in Rust",
+    "links": [
+        {
+            "name": "Crates.io",
+            "url": "https://crates.io/crates/zed_script"
+        }
+    ],
+    "metadata": {
+        "v4": true,
+        "async": true,
+        "tft": true
+    },
+    "tags": [
+        "v4",
+        "tft"
+    ]
+}
