@@ -1,6 +1,6 @@
 {
     "owner": "LionelBergen",
-    "repo": "Zed_script",
+    "repo": "ZedScript",
     "language": "Rust",
     "description": "Easy to use, simple, basic, tested Riot API wrapper written in Rust",
     "links": [
