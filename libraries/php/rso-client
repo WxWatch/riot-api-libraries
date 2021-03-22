@@ -1,0 +1,20 @@
+{
+  "owner": "kdefives",
+  "repo": "oauth2-riot",
+  "description": "Riot (RSO) OAuth 2.0 support for the PHP League's OAuth 2.0 Client",
+  "language": "PHP",
+  "links": [
+    {
+      "name": "Packagist",
+      "url": "https://packagist.org/packages/kdefives/oauth2-riot"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/kdefives/oauth2-riot"
+    }
+  ],
+  "metadata":{
+    "version": "1.0.0"
+  },
+  "tags": ["v4", "rso", "oauth 2.0"]
+}
