@@ -33,6 +33,20 @@ Links
 
 -----------------
 
+`LeagueTrack <https://github.com/dawidkacprzak/LeagueTrack>`_ (☆ 0)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Riot API wrapper is part of the project
+
+Links
+::::::::::::::::
+
+| License: `GNU-V2 <https://www.gnu.org/licenses/old-licenses/gpl-2.0.html>`_
+| Tags: v4
+| Last Updated: Jun 08, 2021
+
+-----------------
+
 Go
 ------------------------------------------
 
