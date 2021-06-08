@@ -40,7 +40,7 @@ Riot API wrapper is part of the project
 
 Links
 ::::::::::::::::
-
+- `Source <https://github.com/dawidkacprzak/LeagueTrack>`_ 
 | License: `GNU-V2 <https://www.gnu.org/licenses/old-licenses/gpl-2.0.html>`_
 | Tags: v4
 | Last Updated: Jun 08, 2021
