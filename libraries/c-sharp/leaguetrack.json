@@ -1,8 +1,8 @@
 {
     "owner": "dawidkacprzak",
-    "repo": "LeageuTrack",
+    "repo": "LeagueTrack",
     "language": "C#",
-    "description": "Gnu licensed project - part of this is wrapper which u can use",
+    "description": "Gnu v2 licensed project - part of this is wrapper which u can use",
     "links": [
         {
             "name": "Source",
