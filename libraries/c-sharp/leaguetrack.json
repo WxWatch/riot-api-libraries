@@ -2,7 +2,7 @@
     "owner": "dawidkacprzak",
     "repo": "LeagueTrack",
     "language": "C#",
-    "description": "Gnu v2 licensed project - part of this is wrapper which you can use",
+    "description": "GNU GPL v3 licensed project - part of this is wrapper which you can use",
     "links": [
         {
             "name": "Source",
@@ -13,8 +13,8 @@
         "v4": true,
         "async": true,
         "rate-limiter": {
-          "header-driven": false,
-          "method-rate-limiting": false,
+          "header-driven": true,
+          "method-rate-limiting": true,
           "per-region": false,
           "per-endpoint": false
         }
