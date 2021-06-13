@@ -1,0 +1,25 @@
+{
+    "owner": "dawidkacprzak",
+    "repo": "LeagueTrack",
+    "language": "C#",
+    "description": "GNU GPL v3 licensed project - part of this is wrapper which you can use",
+    "links": [
+        {
+            "name": "Source",
+            "url": "https://github.com/dawidkacprzak/LeagueTrack"
+        }
+    ],
+    "metadata": {
+        "v4": true,
+        "async": true,
+        "rate-limiter": {
+          "header-driven": true,
+          "method-rate-limiting": true,
+          "per-region": false,
+          "per-endpoint": false
+        }
+    },
+    "tags": [
+        "v4"
+    ]
+}
