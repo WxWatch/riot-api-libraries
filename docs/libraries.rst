@@ -4,7 +4,7 @@ Riot API Libraries
 C#
 ------------------------------------------
 
-`LeagueTrack <https://github.com/dawidkacprzak/LeagueTrack>`_ (☆ 0)
+`LeagueTrack <https://github.com/dawidkacprzak/LeagueTrack>`_ (☆ 1)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 GNU GPL v3 licensed project - part of this is wrapper which you can use
@@ -13,9 +13,10 @@ Links
 ::::::::::::::::
 
 - `Source <https://github.com/dawidkacprzak/LeagueTrack>`_
+- `NuGet <https://www.nuget.org/packages/LeagueTrack.ApiWrapper/>`_
 | License: `GPL-3.0 <http://choosealicense.com/licenses/gpl-3.0>`_
 | Tags: v4
-| Last Updated: Jun 12, 2021
+| Last Updated: Jun 14, 2021
 
 -----------------
 
@@ -104,6 +105,21 @@ Links
 JavaScript
 ------------------------------------------
 
+`riot-api <https://github.com/fightmegg/riot-api>`_ (☆ 15)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Fully featured Riot API client
+
+Links
+::::::::::::::::
+
+- `npm <https://www.npmjs.com/package/@fightmegg/riot-api>`_
+| License: `MIT <http://choosealicense.com/licenses/mit>`_
+| Tags: v4, rate-limiting, caching
+| Last Updated: Jun 14, 2021
+
+-----------------
+
 `MundoScript <https://github.com/LionelBergen/MundoScript>`_ (☆ 23)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -116,7 +132,7 @@ Links
 - `Documentation <https://github.com/LionelBergen/MundoScript>`_
 | License: None
 | Tags: v4
-| Last Updated: Jun 12, 2021
+| Last Updated: Jun 13, 2021
 
 -----------------
 
@@ -132,21 +148,6 @@ Links
 | License: `LGPL-3.0 <http://choosealicense.com/licenses/lgpl-3.0>`_
 | Tags: v3, v4, rate-limiting
 | Last Updated: Jun 9, 2021
-
------------------
-
-`riot-api <https://github.com/fightmegg/riot-api>`_ (☆ 15)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Fully featured Riot API client
-
-Links
-::::::::::::::::
-
-- `npm <https://www.npmjs.com/package/@fightmegg/riot-api>`_
-| License: `MIT <http://choosealicense.com/licenses/mit>`_
-| Tags: v4, rate-limiting, caching
-| Last Updated: Jun 8, 2021
 
 -----------------
 
