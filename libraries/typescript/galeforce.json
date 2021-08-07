@@ -1,0 +1,31 @@
+{
+    "owner": "bcho04",
+    "repo": "galeforce",
+    "language": "TypeScript",
+    "links": [
+        {
+            "name": "npm",
+            "url": "https://www.npmjs.com/package/galeforce"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/bcho04/galeforce"
+        },
+        {
+            "name": "docs",
+            "url": "https://bcho04.github.io/galeforce/"
+        }
+    ],
+    "metadata": {
+        "version": "0.6.0"
+    },
+    "tags": [
+        "v4",
+        "rate-limiting",
+        "lol",
+        "lor",
+        "val",
+        "tft",
+        "cache"
+    ]
+}
