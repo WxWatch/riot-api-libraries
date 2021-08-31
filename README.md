@@ -74,7 +74,6 @@ It's simple to fix! Simply create a Pull Request that updates the configuration 
 For any specific issues / feature requests, you can create a Github Issue or reach out to WxWatch on the [Riot API Community Discord](https://discord.gg/riotgamesdevrel)
 
 ## Future Improvements/Suggestions
-- ~~With the upcoming deprecation of `pre-v3` APIs, a way for libraries to be marked as `supporting v3 `.~~ Done!
 - Remove the `language` property and have the updater rely on the directory name to know the language.
 - A more robust way to show what APIs a library supports
 - A way for libraries to show any additional features it may have (rate limiter, etc.)
