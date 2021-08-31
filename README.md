@@ -77,7 +77,6 @@ For any specific issues / feature requests, you can create a Github Issue or rea
 - Remove the `language` property and have the updater rely on the directory name to know the language.
 - A more robust way to show what APIs a library supports
 - A way for libraries to show any additional features it may have (rate limiter, etc.)
-- Support for libraries not hosted on Github
 
 ## Disclaimer
 Riot API Libraries Repository isn’t endorsed by Riot Games and doesn’t reflect the views or opinions of Riot Games
