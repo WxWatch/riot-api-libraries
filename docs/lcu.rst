@@ -16,6 +16,11 @@ Pupix on Discord created an excellent app called Rift Explorer to explore the LC
 
 Vivi on Discord created a `website <http://lcu.vivide.re/>`_ that allows you to view the swagger for the LCU endpoints online.
 
+LCU Explorer
+------------
+
+LCU Explorer is a Rift Explorer alternative created by Hi-Ray and MingweiSamuel. You can download it `here <https://github.com/HextechDocs/lcu-explorer>`_
+
 Tips
 ----
 
