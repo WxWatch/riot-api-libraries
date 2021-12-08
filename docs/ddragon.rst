@@ -10,7 +10,7 @@ Data Dragon
 
 Data Dragon, or ddragon for short, is a set of static data files that provides images and info about champions, runes, and items. This includes info to translate champion IDs to names.
 
-You can download the entire set of data and images by downloading this tarball (make sure to change the * `version <https://ddragon.leagueoflegends.com/api/versions.json>`_ * to the latest patch): https://ddragon.leagueoflegends.com/cdn/dragontail-9.3.1.tgz. The file is about 0.5 GB.
+You can download the entire set of data and images by downloading this tarball (make sure to change the * `version <https://ddragon.leagueoflegends.com/api/versions.json>`_ * to the latest patch): https://ddragon.leagueoflegends.com/cdn/dragontail-9.3.1.tgz. The file is about 1 GB.
 
 You can also access individual files by going to specific URLs, for example: http://ddragon.leagueoflegends.com/cdn/9.3.1/data/en_US/champion.json.
 
