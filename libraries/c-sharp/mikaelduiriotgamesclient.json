@@ -1,0 +1,22 @@
+{
+    "owner": "mikaeldui",
+    "repo": "riot-games-dotnet-client",
+    "language": "C#",
+    "description": "Frequently-updated auto-generated no-fuzz library with many .NET adaptions.",
+    "links": [
+        {
+            "name": "NuGet",
+            "url": "https://www.nuget.org/packages/MikaelDui.RiotGames.Client"
+        }
+    ],
+    "metadata": {
+        "v3": true,
+        "v4": true,
+        "async": true
+    },
+    "tags": [
+        "v3",
+        "v4",
+        "blazor"
+    ]
+}
