@@ -19,10 +19,10 @@ Links
 
 -----------------
 
-`riot-games-dotnet-client <https://github.com/mikaeldui/riot-games-dotnet-client>`_ (☆ 4)
+`riot-games-dotnet-client <https://github.com/mikaeldui/riot-games-dotnet-client>`_ (☆ 7)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Frequently-updated auto-generated no-fuzz library with many .NET adaptions.
+Frequently-updated auto-generated no-fuss library with many .NET adaptions and support for LCU.
 
 Links
 ::::::::::::::::
