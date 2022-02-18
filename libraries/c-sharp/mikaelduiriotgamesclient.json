@@ -2,7 +2,7 @@
     "owner": "mikaeldui",
     "repo": "riot-games-dotnet-client",
     "language": "C#",
-    "description": "Frequently-updated auto-generated no-fuzz library with many .NET adaptions.",
+    "description": "Frequently-updated auto-generated no-fuss library with many .NET adaptions and support for LCU.",
     "links": [
         {
             "name": "NuGet",
