@@ -1,0 +1,30 @@
+{
+    "owner": "jellies",
+    "repo": "willump",
+    "description": "Python3 helper for the League of Legends LCU API.",
+    "language": "Python",
+    "links": [
+        {
+            "name": "PyPi",
+            "url": "https://pypi.org/project/willump/"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/elliejs/Willump"
+        },
+        {
+            "name": "Tutorial",
+            "url": "https://github.com/elliejs/Willump/tree/main/tutorial"
+        }
+    ],
+    "metadata": {},
+    "tags": [
+        "lcu",
+        "lol",
+        "asyncio",
+        "wss",
+        "https",
+        "cors",
+        "live-events"
+    ]
+}
