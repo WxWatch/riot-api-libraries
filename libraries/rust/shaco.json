@@ -1,0 +1,27 @@
+{
+    "owner": "Leastrio",
+    "repo": "Shaco",
+    "language": "Rust",
+    "description": "League of Legends LCU wrapper for rust",
+    "links": [
+        {
+            "name": "docs.rs",
+            "url": "https://docs.rs/shaco/latest/shaco/"
+        },
+        {
+            "name": "crates.io",
+            "url": "https://crates.io/crates/shaco"
+        }
+    ],
+    "metadata": {
+        "async": true
+    },
+    "tags": [
+        "lcu",
+        "rest",
+        "websocket",
+        "ws",
+        "ingame",
+        "tokio"
+    ]
+}
