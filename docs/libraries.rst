@@ -4,6 +4,21 @@ Riot API Libraries
 C#
 ------------------------------------------
 
+`Camille <https://github.com/MingweiSamuel/Camille>`_ (☆ 61)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Fully rate limited, automatic retrying, thread-safe. V4 Supported. Automatic nightly releases.
+
+Links
+::::::::::::::::
+
+- `NuGet <https://www.nuget.org/packages/MingweiSamuel.Camille/>`_
+| License: `NOASSERTION <http://choosealicense.com/licenses/other>`_
+| Tags: v3, v4, rate-limiting
+| Last Updated: Apr 5, 2022
+
+-----------------
+
 `riot-games-dotnet-client <https://github.com/mikaeldui/riot-games-dotnet-client>`_ (☆ 12)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -16,21 +31,6 @@ Links
 | License: `Unlicense <http://choosealicense.com/licenses/unlicense>`_
 | Tags: v3, v4, blazor
 | Last Updated: Mar 27, 2022
-
------------------
-
-`Camille <https://github.com/MingweiSamuel/Camille>`_ (☆ 61)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Fully rate limited, automatic retrying, thread-safe. V4 Supported. Automatic nightly releases.
-
-Links
-::::::::::::::::
-
-- `NuGet <https://www.nuget.org/packages/MingweiSamuel.Camille/>`_
-| License: `NOASSERTION <http://choosealicense.com/licenses/other>`_
-| Tags: v3, v4, rate-limiting
-| Last Updated: Mar 3, 2022
 
 -----------------
 
@@ -86,7 +86,7 @@ Links
 Java
 ------------------------------------------
 
-`R4J <https://github.com/stelar7/R4J>`_ (☆ 55)
+`R4J <https://github.com/stelar7/R4J>`_ (☆ 57)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A Java library containing the API for every Riot game
@@ -96,7 +96,7 @@ Links
 
 | License: `Apache-2.0 <http://choosealicense.com/licenses/apache-2.0>`_
 | Tags: v4
-| Last Updated: Mar 10, 2022
+| Last Updated: Apr 1, 2022
 
 -----------------
 
@@ -120,7 +120,7 @@ Links
 JavaScript
 ------------------------------------------
 
-`twisted <https://github.com/Sansossio/twisted>`_ (☆ 66)
+`twisted <https://github.com/Sansossio/twisted>`_ (☆ 68)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Fetching riot games api data
@@ -152,7 +152,7 @@ Links
 
 -----------------
 
-`galeforce <https://github.com/bcho04/galeforce>`_ (☆ 23)
+`galeforce <https://github.com/bcho04/galeforce>`_ (☆ 25)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A customizable, promise-based, and command-oriented TypeScript fluent interface and library for the Riot Games API.
@@ -303,6 +303,22 @@ Links
 Python
 ------------------------------------------
 
+`Riot-Watcher <https://github.com/pseudonym117/Riot-Watcher>`_ (☆ 424)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Simple Python wrapper for the Riot Games API for League of Legends
+
+Links
+::::::::::::::::
+
+- `Documentation <http://riot-watcher.readthedocs.io/en/latest/>`_
+- `PyPi <https://pypi.python.org/pypi/riotwatcher>`_
+| License: `MIT <http://choosealicense.com/licenses/mit>`_
+| Tags: v4, rate-limiting
+| Last Updated: Apr 5, 2022
+
+-----------------
+
 `cassiopeia <https://github.com/meraki-analytics/cassiopeia>`_ (☆ 413)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -319,7 +335,7 @@ Links
 
 -----------------
 
-`Pyot <https://github.com/paaksing/Pyot>`_ (☆ 62)
+`Pyot <https://github.com/paaksing/Pyot>`_ (☆ 63)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 AsyncIO based high level Python framework for the Riot Games API that encourages rapid development and clean, pragmatic design. Details in documentations
@@ -350,22 +366,6 @@ Links
 
 -----------------
 
-`Riot-Watcher <https://github.com/pseudonym117/Riot-Watcher>`_ (☆ 424)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Simple Python wrapper for the Riot Games API for League of Legends
-
-Links
-::::::::::::::::
-
-- `Documentation <http://riot-watcher.readthedocs.io/en/latest/>`_
-- `PyPi <https://pypi.python.org/pypi/riotwatcher>`_
-| License: `MIT <http://choosealicense.com/licenses/mit>`_
-| Tags: v4, rate-limiting
-| Last Updated: Jan 4, 2022
-
------------------
-
 Rust
 ------------------------------------------
 
@@ -381,7 +381,7 @@ Links
 - `Crates.io <https://crates.io/crates/riven>`_
 | License: `MIT <http://choosealicense.com/licenses/mit>`_
 | Tags: v3, v4, rate-limiting, tft
-| Last Updated: Mar 14, 2022
+| Last Updated: Apr 4, 2022
 
 -----------------
 
@@ -436,7 +436,7 @@ Links
 TypeScript
 ------------------------------------------
 
-`twisted <https://github.com/Sansossio/twisted>`_ (☆ 66)
+`twisted <https://github.com/Sansossio/twisted>`_ (☆ 68)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Fetching riot games api data
@@ -453,7 +453,7 @@ Links
 
 -----------------
 
-`galeforce <https://github.com/bcho04/galeforce>`_ (☆ 23)
+`galeforce <https://github.com/bcho04/galeforce>`_ (☆ 25)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A customizable, promise-based, and command-oriented TypeScript fluent interface and library for the Riot Games API.
