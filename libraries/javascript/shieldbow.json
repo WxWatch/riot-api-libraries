@@ -1,0 +1,31 @@
+{
+    "owner": "TheDrone7",
+    "repo": "shieldbow",
+    "description": "A super easy-to-use RIOT API Wrapper with full type support.",
+    "language": "JavaScript",
+    "links": [
+        {
+            "name": "npm",
+            "url": "https://www.npmjs.com/package/shieldbow"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://github.com/TheDrone7/shieldbow"
+        },
+        {
+            "name": "Documentation",
+            "url": "https://thedrone7.github.io/shieldbow/"
+        }
+    ],
+    "metadata": {
+        "version": "1.2.0"
+    },
+    "tags": [
+        "v4",
+        "v5",
+        "rate-limiting",
+        "caching",
+        "lol",
+        "ts"
+    ]
+}
