@@ -1,0 +1,18 @@
+{
+    "owner": "Dan-Tan",
+    "repo": "riot-cpp",
+    "language": "cpp",
+    "description": "A c++ library implementing allowing basic access to riot's api using libcurl and jsoncpp",
+    "links": [
+        {
+            "name": "Documentation",
+            "url": "https://github.com/Dan-Tan/riot-cpp"
+        }
+    ],
+    "metadata": {},
+    "tags": [
+        "v4",
+        "rate-limiting",
+        "logging"
+    ]
+}
