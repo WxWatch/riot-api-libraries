@@ -1,0 +1,28 @@
+{
+   "owner":"hawolt",
+   "repo":"Javan",
+   "language":"Java",
+   "description":"A very lightweigt and maintained Java adaptation of the Riot Games League of Legends API taking care of the ugly things for you",
+   "links":[
+      {
+         "name":"Discord",
+         "url":"https://discord.gg/5Xk4nU7cmp"
+      },
+      {
+         "name":"JavaDoc",
+         "url":"https://javan.hawolt.com/docs/1.0/"
+      },
+      {
+         "name":"Examples to get Started",
+         "url":"https://github.com/hawolt/Javan/blob/main/src/test/java/com/hawolt/Examples.java"
+      }
+   ],
+   "metadata":{
+      
+   },
+   "tags":[
+      "v5",
+      "v4",
+      "rate-limiting"
+   ]
+}
