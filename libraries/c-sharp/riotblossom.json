@@ -5,10 +5,6 @@
     "description": "An asynchronous, extensible, and magical Riot Games API wrapper library for C#. ☆",
     "links": [
         {
-            "name": "GitHub",
-            "url": "https://github.com/BlossomiShymae/RiotBlossom"
-        },
-        {
             "name": "NuGet",
             "url": "https://www.nuget.org/packages/BlossomiShymae.RiotBlossom"
         },
