@@ -20,6 +20,8 @@
         "rate-limiting",
         "caching",
         "lol",
-        "tft"
+        "tft",
+        "lor",
+        "val"
     ]
 }
