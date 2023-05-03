@@ -2,12 +2,8 @@
     "owner": "BlossomiShymae",
     "repo": "RiotBlossom",
     "language": "C#",
-    "description": "An asynchronous, extensible, and magical Riot Games API wrapper library for C#. ☆",
+    "description": "An asynchronous, extensible, and magical Riot Games API wrapper library for C#. RiotBlossom helps to make things totes' easier!",
     "links": [
-        {
-            "name": "GitHub",
-            "url": "https://github.com/BlossomiShymae/RiotBlossom"
-        },
         {
             "name": "NuGet",
             "url": "https://www.nuget.org/packages/BlossomiShymae.RiotBlossom"
@@ -24,6 +20,8 @@
         "rate-limiting",
         "caching",
         "lol",
-        "tft"
+        "tft",
+        "lor",
+        "val"
     ]
 }
