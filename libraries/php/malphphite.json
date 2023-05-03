@@ -1,0 +1,18 @@
+{
+  "owner": "DarkIntaqt",
+  "repo": "malPHPhite",
+  "description": "MalPHPhite is a beginner-friendly PHP Wrapper for the League of Legends API. Just include a single file and you are ready to go!",
+  "language": "PHP",
+  "links": [
+    {
+      "name": "Tutorial",
+      "url": "https://darkintaqt.com/blog/malphphite"
+    }
+  ],
+  "tags": [
+        "v4",
+        "v5",
+        "caching",
+        "lol"
+    ]
+}
