@@ -1,0 +1,23 @@
+{
+    "owner": "cuppachino",
+    "repo": "hexgate",
+    "description": "LCU API wrapper for League of Legends",
+    "language": "TypeScript",
+    "links": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/cuppachino/hexgate"
+        },
+        {
+            "name": "NPM",
+            "url": "https://www.npmjs.com/package/hexgate"
+        }
+    ],
+    "metadata": {
+        "version": "0.7.7"
+    },
+    "tags": [
+        "lol",
+        "ts"
+    ]
+}
