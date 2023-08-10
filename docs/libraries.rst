@@ -86,6 +86,21 @@ Links
 
 -----------------
 
+`Riot-API-Golang <https://github.com/junioryono/Riot-API-Golang>`_ (☆ 1)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A sleek, easy-to-use wrapper for making API calls to Riot and DataDragon with built-in rate limiting
+
+Links
+::::::::::::::::
+
+- `github <https://github.com/junioryono/Riot-API-Golang>`_
+| License: `MIT <https://github.com/junioryono/Riot-API-Golang/blob/main/LICENSE>`_
+| Tags: v5, ddragon, rate-limiting
+| Last Updated: Aug 10, 2023
+
+-----------------
+
 Java
 ------------------------------------------
 
