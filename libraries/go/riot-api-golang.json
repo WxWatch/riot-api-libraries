@@ -12,6 +12,7 @@
     "version": "0.1"
   },
   "tags": [
+    "v4",
     "v5",
     "ddragon",
     "rate-limiting",
