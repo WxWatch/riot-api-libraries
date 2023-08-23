@@ -1,0 +1,20 @@
+{
+  "owner": "junioryono",
+  "repo": "Riot-API-Golang",
+  "language": "Go",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/junioryono/Riot-API-Golang"
+    }
+  ],
+  "metadata": {
+    "version": "0.1"
+  },
+  "tags": [
+    "v4",
+    "v5",
+    "ddragon",
+    "rate-limiting"
+  ]
+}
