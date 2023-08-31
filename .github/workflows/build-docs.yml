@@ -7,7 +7,7 @@ on:
     paths:
       - libraries/**
 
-  pull_requests:
+  pull_request:
     branches:
       - master
     paths:
