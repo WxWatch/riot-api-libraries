@@ -2,11 +2,11 @@
     "owner": "MingweiSamuel",
     "repo": "Camille",
     "language": "C#",
-    "description": "Fully rate limited, automatic retrying, thread-safe. V4 Supported. Automatic nightly releases.",
+    "description": "Fully rate limited, automatic retrying, thread-safe. Automatic nightly releases.",
     "links": [
         {
             "name": "NuGet",
-            "url": "https://www.nuget.org/packages/MingweiSamuel.Camille/"
+            "url": "https://www.nuget.org/packages/Camille.RiotGames/"
         }
     ],
     "metadata": {
@@ -23,6 +23,10 @@
     "tags": [
         "v3",
         "v4",
-        "rate-limiting"
+        "rate-limiting",
+        "lol",
+        "tft",
+        "lor",
+        "val"
     ]
 }
