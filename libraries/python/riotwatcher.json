@@ -1,6 +1,7 @@
 {
     "owner": "pseudonym117",
     "repo": "Riot-Watcher",
+    "description": "A thin Riot API wrapper focused on simplicity and ease of use",
     "language": "Python",
     "links": [
         {
@@ -15,6 +16,9 @@
     "metadata": {},
     "tags": [
         "v4",
-        "rate-limiting"
+        "rate-limiting",
+        "tft",
+        "lor",
+        "val"
     ]
 }
