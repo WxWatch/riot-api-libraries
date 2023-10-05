@@ -1,0 +1,32 @@
+{
+    "owner": "AlsoSylv",
+    "repo": "Irelia",
+    "language": "Rust",
+    "description": "LoL LCU Wrapper for Rust, built on top of hyper!",
+    "links": [
+        {
+            "name": "docs.rs",
+            "url": "https://docs.rs/crate/irelia/latest"
+        },
+        {
+            "name": "crates.io",
+            "url": "https://crates.io/crates/irelia"
+        },
+        {
+          "name": "github",
+          "url": "https://github.com/AlsoSylv/Irelia/tree/master"
+        }
+    ],
+    "metadata": {
+        "async": true
+    },
+    "tags": [
+        "lcu",
+        "rest",
+        "websocket",
+        "ws",
+        "ingame",
+        "tokio",
+        "hyper"
+    ]
+}
