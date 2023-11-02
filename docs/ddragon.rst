@@ -118,7 +118,7 @@ The languages supported by ddragon can be found `here <https://ddragon.leagueofl
 +-------+---------------------------------------+
 | th_TH	| Thai (Thailand)                       |
 +-------+---------------------------------------+
-| vn_VN	| Vietnamese (Viet Nam)                 |
+| vi_VN	| Vietnamese (Viet Nam)                 |
 +-------+---------------------------------------+
 | id_ID	| Indonesian (Indonesia)                |
 +-------+---------------------------------------+
