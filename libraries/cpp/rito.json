@@ -1,0 +1,21 @@
+{
+    "owner": "bartekprtc",
+    "repo": "rito",
+    "description": "Rito is a simple, crossplatform (Windows and Linux) C++20 library interfacing with Riot services (i.e. Riot REST API and League of Legends client).",
+    "language": "cpp",
+    "links": [
+        {
+            "name": "Docs",
+            "url": "https://bartekprtc.github.io/rito/"
+        }
+    ],
+    "metadata": {
+        "version": "0.1.0"
+    },
+    "tags": [
+        "lol",
+        "lcu",
+        "ingame",
+        "v4"
+    ]
+}
