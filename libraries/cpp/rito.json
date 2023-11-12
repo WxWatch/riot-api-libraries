@@ -5,15 +5,17 @@
     "language": "cpp",
     "links": [
         {
-            "name": "Source",
-            "url": "https://github.com/bartekprtc/rito"
-        },
-        {
             "name": "Docs",
             "url": "https://bartekprtc.github.io/rito/"
         }
     ],
     "metadata": {
         "version": "0.1.0"
-    }
+    },
+    "tags": [
+        "lol",
+        "lcu",
+        "ingame",
+        "v4"
+    ]
 }
