@@ -1,21 +1,20 @@
 {
-  "owner": "paaksing",
+  "owner": "Jian Huang",
   "repo": "Pyot",
-  "description": "AsyncIO based high level Python framework for the Riot Games API that encourages rapid development and clean, pragmatic design. Details in documentations",
+  "description": "AsyncIO-based high-level Python framework for the Riot Games API. (Deprecated, please use pulsefire instead)",
   "language": "Python",
   "links": [{
-    "name": "PyPi",
-    "url": "https://pypi.org/project/pyot/"
-  }, {
     "name": "Documentation",
     "url": "https://pyot.paaksing.com/"
+  }, {
+    "name": "PyPi",
+    "url": "https://pypi.org/project/pyot/"
   }],
   "metadata": {},
   "tags": [
     "v4",
     "rate-limiting",
     "asyncio",
-    "django",
     "lol",
     "lor",
     "tft",
