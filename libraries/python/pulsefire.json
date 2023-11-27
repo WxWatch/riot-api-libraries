@@ -1,13 +1,13 @@
 {
   "owner": "Jian Huang",
   "repo": "pulsefire",
-  "description": "Modern and flexible Riot Games Python SDK.",
+  "description": "A modern and flexible Riot Games Python SDK.",
   "language": "Python",
   "links": [{
     "name": "Documentation",
     "url": "https://pulsefire.iann838.com/"
   }, {
-    "name": "Github",
+    "name": "GitHub",
     "url": "https://github.com/iann838/pulsefire"
   }, {
     "name": "PyPi",
