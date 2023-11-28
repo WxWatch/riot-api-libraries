@@ -1,0 +1,26 @@
+{
+  "owner": "Jian Huang",
+  "repo": "pulsefire",
+  "description": "A modern and flexible Riot Games Python SDK.",
+  "language": "Python",
+  "links": [{
+    "name": "Documentation",
+    "url": "https://pulsefire.iann838.com/"
+  }, {
+    "name": "GitHub",
+    "url": "https://github.com/iann838/pulsefire"
+  }, {
+    "name": "PyPi",
+    "url": "https://pypi.org/project/pulsefire/"
+  }],
+  "metadata": {},
+  "tags": [
+    "v4",
+    "rate-limiting",
+    "asyncio",
+    "lol",
+    "lor",
+    "tft",
+    "val"
+  ]
+}
