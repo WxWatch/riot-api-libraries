@@ -1,5 +1,5 @@
 {
-  "owner": "Jian Huang",
+  "owner": "iann838",
   "repo": "Pyot",
   "description": "AsyncIO-based high-level Python framework for the Riot Games API. (Deprecated, please use pulsefire instead)",
   "language": "Python",
