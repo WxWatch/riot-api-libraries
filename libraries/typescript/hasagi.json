@@ -1,0 +1,25 @@
+{
+    "owner": "dysolix",
+    "repo": "hasagi-core",
+    "description": "LCU library with auto-generated types for request parameters and responses",
+    "language": "TypeScript",
+    "links": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/dysolix/hasagi-core"
+        },
+        {
+            "name": "Docs",
+            "url": "https://github.com/dysolix/hasagi-core/wiki"
+        },
+        {
+            "name": "Extended Version GitHub",
+            "url": "https://github.com/dysolix/hasagi-extended"
+        }
+    ],
+    "metadata": { },
+    "tags": [
+      "lol",
+      "lcu"
+    ]
+}
