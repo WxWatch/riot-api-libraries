@@ -34,6 +34,7 @@ Each JSON file should consist of a single `RepoObject` JSON object with the foll
 - `metadata` [**object**] - An object containing metadata on the library.
 - `tags` [**array**] - An array of strings indicating which features are supported by the library. This array can contain any tags, but only the following are official:
   - `v4` - Include if the library supports `v4` of the Riot Games API. [BottyMcBotFace](https://github.com/Querijn/BottyMcBotface) will only show libraries that have the `v4` tag in all channels that don't have other tags (see below).
+  - `v5` - Include if the library supports `v5` of the Riot Games API. You should still include the `v4` tag.
   - `lol` - Use `v4` to ensure your library is shown in #lol-dev
   - `lcu` - Include if the library supports the LCU API. Libraries with this tag will show up in [#lcu-api](https://discord.com/channels/187652476080488449/516802588805431296)
   - `ingame` - Include if the library supports the Ingame API. Libraries with this tag will show up in [#ingame-api](https://discord.com/channels/187652476080488449/543112946402721832)
