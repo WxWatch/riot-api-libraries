@@ -33,7 +33,15 @@ Each JSON file should consist of a single `RepoObject` JSON object with the foll
 - `links` [**array**] - An array of `RepoLink` objects
 - `metadata` [**object**] - An object containing metadata on the library.
 - `tags` [**array**] - An array of strings indicating which features are supported by the library. This array can contain any tags, but only the following are currently used:
-  - `v4` - Include if the library supports `v4` of the Riot Games API. Note that [BottyMcBotFace](https://github.com/Querijn/BottyMcBotface) will only show a library that has the `v4` tag.
+  - `v4` - Include if the library supports `v4` of the Riot Games API. [BottyMcBotFace](https://github.com/Querijn/BottyMcBotface) will only show libraries that have the `v4` tag in all channels that don't have other tags (see below).
+  - `lol` - Use `v4` to ensure your library is shown in #lol-dev
+  - `lcu` - Include if the library supports the LCU API. Libraries with this tag will show up in [#lcu-api](https://discord.com/channels/187652476080488449/516802588805431296)
+  - `ingame` - Include if the library supports the Ingame API. Libraries with this tag will show up in [#ingame-api](https://discord.com/channels/187652476080488449/543112946402721832)
+  - `replay` - Include if the library supports the Replay API.
+  - `tft` - Include if the library supports the TFT APIs. Libraries with this tag will show up in [#tft-dev](https://discord.com/channels/187652476080488449/595727408058073090)
+  - `lor` - Include if the library supports the LoR APIs. Libraries with this tag will show up in [#lor-dev](https://discord.com/channels/187652476080488449/633905002976378881)
+  - `val` - Include if the library supports the Valorant APIs. Libraries with this tag will show up in [#val-dev](https://discord.com/channels/187652476080488449/694820049063510026)
+  - `rso` - Include if the library supports RSO. Libraries with this tag will show up in [#rso-dev](https://discord.com/channels/187652476080488449/946641562757107782)
   - `rate-limiting` - Include if the library natively handles rate limiting headers from the Riot Games API
 
 #### RepoLink
