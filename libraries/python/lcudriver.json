@@ -1,0 +1,26 @@
+{
+  "owner": "sousa-andre",
+  "repo": "lcu-driver",
+  "description": "Python3 helper for the League of Legends LCU API.",
+  "language": "Python",
+  "links": [
+    {
+      "name": "PyPI",
+      "url": "https://pypi.org/project/lcu-driver/"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/sousa-andre/lcu-driver"
+    },
+    {
+      "name": "Documentation",
+      "url": "https://lcu-driver.readthedocs.io/en/latest/"
+    }
+  ],
+  "metadata": {},
+  "tags": [
+    "lcu",
+    "lol",
+    "asyncio"
+  ]
+}
