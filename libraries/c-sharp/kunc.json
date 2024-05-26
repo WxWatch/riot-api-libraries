@@ -1,0 +1,25 @@
+{
+    "owner": "AoshiW",
+    "repo": "Kunc.RiotGames",
+    "language": "C#",
+    "links": [
+        {
+            "name": "NuGet",
+            "url": "https://www.nuget.org/packages?q=Kunc.RiotGames."
+        }
+    ],
+    "metadata": {
+        "slow": true,
+        "bugFree": false,
+        "otherVeryUsefulMetadata": null
+     },
+    "tags": [
+        "lol",
+        "lcu",
+        "ingame",
+        "tft",
+        "lor",
+        "rate-limiting",
+        "v4"
+    ]
+}
