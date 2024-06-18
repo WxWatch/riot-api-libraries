@@ -9,15 +9,18 @@
     },
     {
       "name": "docs",
-      "url": "https://godoc.org/github.com/KnutZuidema/golio"
+      "url": "https://pkg.go.dev/github.com/KnutZuidema/golio"
     }
   ],
   "metadata": {
-    "version": "0.1"
+    "version": "1.0.0"
   },
   "tags": [
     "v4",
     "rate-limiting",
-    "caching"
+    "caching",
+    "lol",
+    "lor",
+    "val"
   ]
 }
