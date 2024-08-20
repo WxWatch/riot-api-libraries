@@ -1,0 +1,25 @@
+{
+  "owner": "BlossomiShymae",
+  "repo": "GrrrLCU",
+  "language": "C#",
+  "description": "A simple wrapper for the LCU. Grrr. x3",
+  "links": [
+      {
+        "name": "NuGet",
+        "url": "https://www.nuget.org/packages/BlossomiShymae.GrrrLCU/"
+      },
+      {
+        "name": "Documentation",
+        "url": "https://github.com/BlossomiShymae/GrrrLCU/blob/main/README.md#Usage"
+      }
+  ],
+  "metadata": {
+      "async": true
+   },
+  "tags": [
+      "lcu",
+      "rest",
+      "websocket",
+      "ws"
+  ]
+}
