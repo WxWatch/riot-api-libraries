@@ -1,0 +1,26 @@
+{
+  "owner": "BlossomiShymae",
+  "repo": "Briar",
+  "language": "C#",
+  "description": "A simple wrapper for the League Client and Game Client APIs.",
+  "links": [
+      {
+        "name": "NuGet",
+        "url": "https://www.nuget.org/packages/BlossomiShymae.Briar/"
+      },
+      {
+        "name": "Documentation",
+        "url": "https://github.com/BlossomiShymae/Briar/blob/main/README.md#Usage"
+      }
+  ],
+  "metadata": {
+      "async": true
+   },
+  "tags": [
+      "lcu",
+      "rest",
+      "websocket",
+      "ws",
+      "ingame"
+  ]
+}
