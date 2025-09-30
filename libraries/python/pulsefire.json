@@ -1,14 +1,14 @@
 {
-  "owner": "iann838",
+  "owner": "ianhco",
   "repo": "pulsefire",
   "description": "A modern and flexible Riot Games Python SDK.",
   "language": "Python",
   "links": [{
     "name": "Documentation",
-    "url": "https://pulsefire.iann838.com/"
+    "url": "https://pulsefire.ianhco.dev/"
   }, {
     "name": "GitHub",
-    "url": "https://github.com/iann838/pulsefire"
+    "url": "https://github.com/ianhco/pulsefire"
   }, {
     "name": "PyPi",
     "url": "https://pypi.org/project/pulsefire/"
