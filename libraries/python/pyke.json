@@ -6,11 +6,11 @@
     "links": [
         {
             "name": "PyPi",
-            "url": "https://pypi.org/project/pyke-lol/",
+            "url": "https://pypi.org/project/pyke-lol/"
         }
     ],
     "metadata": {},
     "tags": [
-        "lol",
+        "lol"
     ]
 }
