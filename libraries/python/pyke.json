@@ -1,7 +1,6 @@
 {
     "owner": "diodemusic",
     "repo": "pyke",
-    "description": "pyke is an opinionated, simple-by-design Riot API wrapper specifically for League of Legends.",
     "language": "Python",
     "links": [
         {
@@ -15,7 +14,8 @@
     ],
     "metadata": {},
     "tags": [
-        "lol",
-        "v4"
+        "v4",
+        "v5",
+        "lol"
     ]
 }
