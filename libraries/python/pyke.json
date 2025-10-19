@@ -7,6 +7,10 @@
         {
             "name": "PyPi",
             "url": "https://pypi.org/project/pyke-lol/"
+        },
+        {
+            "name": "Documentation",
+            "url": "https://diodemusic.github.io/pyke/"
         }
     ],
     "metadata": {},
