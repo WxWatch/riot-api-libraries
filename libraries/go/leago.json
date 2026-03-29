@@ -1,0 +1,19 @@
+{
+  "owner": "Gustavo-Feijo",
+  "repo": "leago",
+  "language": "Go",
+  "links": [
+    {
+      "name": "Source",
+      "url": "https://github.com/Gustavo-Feijo/leago"
+    },
+    {
+      "name": "Documentation",
+      "url": "https://pkg.go.dev/github.com/Gustavo-Feijo/leago"
+    }
+  ],
+  "metadata": {
+    "version": "0.3.0"
+  },
+  "tags": ["ddragon", "lol", "lor", "rate-limiting", "tft", "val", "v4", "v5"]
+}
