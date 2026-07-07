@@ -1,0 +1,38 @@
+{
+    "owner": "justadev-afk",
+    "repo": "yasuo.js",
+    "description": "The modern, fully-typed, zero-dependency Riot Games API client for TypeScript — the evolution of twisted. A query-builder API with lazy relations, reactive retry (always on) plus opt-in proactive rate limiting, pluggable caching (in-memory / Redis / Cloudflare KV), async-iterator pagination and a single-file dual ESM + CJS build.",
+    "language": "TypeScript",
+    "links": [
+        {
+            "name": "npm",
+            "url": "https://www.npmjs.com/package/yasuo.js"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://github.com/justadev-afk/yasuo.js"
+        },
+        {
+            "name": "Documentation",
+            "url": "https://docs.yasuo.gg/"
+        },
+        {
+            "name": "Live Demo",
+            "url": "https://www.yasuo.gg"
+        }
+    ],
+    "metadata": {
+        "version": "0.1.5",
+        "dependencies": 0
+    },
+    "tags": [
+        "v4",
+        "v5",
+        "lol",
+        "tft",
+        "rate-limiting",
+        "caching",
+        "ts",
+        "zero-dependency"
+    ]
+}
