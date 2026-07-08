@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/WxWatch/riot-api-libraries#readme",
   "dependencies": {
-    "@octokit/rest": "^16.16.0",
+    "@octokit/rest": "^21.1.0",
     "bluebird": "^3.5.3",
     "dateformat": "^3.0.3",
     "github": "^14.0.0",
